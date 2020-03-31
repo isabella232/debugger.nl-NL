@@ -6,7 +6,7 @@ seo-title: Experience Cloud Debugger installeren
 title: Experience Cloud Debugger installeren
 uuid: 16d77c6d-11e7-4dfd-a846-3dace9f4070f
 translation-type: tm+mt
-source-git-commit: dc723f0848c56794e9a1a6eda405de2f4ea6b8fa
+source-git-commit: 3b2fd709419b40e0503baef9a39128ddbf4875b3
 
 ---
 
@@ -25,8 +25,6 @@ Download en installeer Adobe Experience Platform Debugger.
 Nadat u de Chrome-extensie of de Firefox-invoegtoepassing hebt geïnstalleerd, wordt een pictogram toegevoegd aan de uitbreidingsbalk:
 
 ![](assets/start-icon.jpg)
-
-<!-->>[!VIDEO](https://video.tv.adobe.com/v/23114t2/)-->
 
 Klik op het pictogram om Foutopsporing te starten.
 
