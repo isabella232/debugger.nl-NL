@@ -5,12 +5,16 @@ seo-description: 'null'
 seo-title: Gebeurtenissen
 title: Gebeurtenissen
 translation-type: tm+mt
-source-git-commit: 2c3d056451c5b7b4bf5603c22bf3bbdbc693491f
+source-git-commit: dc723f0848c56794e9a1a6eda405de2f4ea6b8fa
 
 ---
 
 
 # Gebeurtenissen{#events}
+
+> [!IMPORTANT]
+>
+> Adobe Experience Cloud Debugger 2.0 is momenteel in bèta. De documentatie en de functionaliteit kunnen worden gewijzigd.
 
 Het scherm Gebeurtenissen geeft een grafische weergave van de gebeurtenissen die plaatsvinden en die op een tijdlijn worden weergegeven.
 
@@ -30,7 +34,9 @@ Wijzigingen in gegevenslagen bijhouden in de tijdlijn inschakelen:
 
 1. Klik op het tandwielpictogram rechtsboven.
 1. Voer de naam van de gegevenslaag in.
+
    ![](assets/event-datalayer.jpg)
+
 1. Klik op **[!UICONTROL Save]**.
 
 De gegevens van de de veranderingsdetails van de gegevenslaag tonen om het even wat die is geschrapt of toegevoegd. U kunt klikken **{}** om dieper in de gegevenslaag te kijken.
