@@ -6,12 +6,16 @@ seo-title: Tabbladen met oplossingen in Adobe Debugger
 title: Tabs Oplossing
 uuid: 5e999ef2-6399-4ab5-a841-3a839d081728
 translation-type: tm+mt
-source-git-commit: 2c3d056451c5b7b4bf5603c22bf3bbdbc693491f
+source-git-commit: dc723f0848c56794e9a1a6eda405de2f4ea6b8fa
 
 ---
 
 
 # Oplossingen{#solution-tabs}
+
+> [!IMPORTANT]
+>
+> Adobe Experience Cloud Debugger 2.0 is momenteel in bèta. De documentatie en de functionaliteit kunnen worden gewijzigd.
 
 Klik op een oplossing om de resultaten voor specifieke Adobe Experience Cloud-oplossingen te bekijken.
 
@@ -27,7 +31,7 @@ Het scherm Analytics geeft informatie over uw [analytics](https://docs.adobe.com
 
 ## Doel {#section-988873ba5ede4317953193bd7ac5474c}
 
-Gebruik het scherm van het Doel om de [verzoeken van het Doel](https://docs.adobe.com/content/help/en/target/using/target-home.html) of [Mbox de reactiedetails van het Spoor](https://docs.adobe.com/content/help/en/target/using/activities/troubleshoot-activities/content-trouble.html) te bekijken.
+Gebruik het scherm van het Doel om de verzoeken [van het](https://docs.adobe.com/content/help/en/target/using/target-home.html) Doel<!-- or [Mbox Trace](https://docs.adobe.com/content/help/en/target/using/activities/troubleshoot-activities/content-trouble.html) response details-->te bekijken.
 
 ## Auditiebeheer {#section-1d4484f8b46f457f859ba88039a9a585}
 
@@ -35,7 +39,7 @@ Gebruik het tabblad [Audience Manager](https://docs.adobe.com/content/help/en/au
 
 ## Starten {#section-ee80a9c509f2462c89c1e5bd8d05d7c8}
 
-In de sectie Starten kunt u aanvragen voor Starten weergeven. U kunt ook klikken **[!UICONTROL Configuration]** om [insluitcodes](https://docs.adobe.com/content/help/en/launch/using/reference/upgrade/link-dtm-embed-code.html)te configureren. U kunt meer insluitcodes bewerken, vervangen of toevoegen vanuit Foutopsporing.
+In de sectie Starten kunt u aanvragen voor Starten weergeven. U kunt ook klikken **[!UICONTROL Configuration]** om [insluitcodes](https://docs.adobe.com/content/help/en/launch/using/reference/upgrade/link-dtm-embed-code.html)te configureren. U kunt meer insluitcodes bewerken, vervangen of toevoegen vanuit Foutopsporing. Als u zich aanmeldt, kunt u een alternatieve eigenschap selecteren met de vervolgkeuzelijsten.
 
 ## Dynamisch tagbeheer {#dynamic-tag-management}
 
