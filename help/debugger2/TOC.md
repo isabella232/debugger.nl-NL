@@ -6,19 +6,20 @@ audience: end-user
 user-guide-title: Experience Cloud Debugger 2.0 Help
 index: false
 translation-type: tm+mt
-source-git-commit: 81d605e746bbebe740bccd3c1cf81fa457e16f4d
+source-git-commit: dc723f0848c56794e9a1a6eda405de2f4ea6b8fa
 
 ---
 
 
-# Help bij Foutopsporing in de cloud {#using-v2}
+# Help bij Experience Cloud Debugger 2.0 {#using-v2}
 
 + [Adobe Experience Cloud Debugger Extension](experience-cloud-debugger.md)
-+ [Opmerkingen bij de release](release-notes.md)
++ [Releaseopmerkingen](release-notes.md)
 + [Experience Cloud Debugger installeren](install-debugger.md)
++ [Foutopsporing configureren](configure-debugger.md)
 + [Samenvattingsscherm](summary.md)
 + [Oplossingen](solutions.md)
 + [Logboeken](logs.md)
-+ [Netwerkinformatie](network.md)
++ [Netwerk](network.md)
 + [Gebeurtenissen](events.md)
 + [Auditor](auditor.md)
