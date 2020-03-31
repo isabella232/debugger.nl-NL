@@ -6,12 +6,16 @@ seo-title: Netwerkinformatie
 title: Netwerkinformatie
 uuid: 839686c9-6e4f-4661-acf6-150ea24dc47f
 translation-type: tm+mt
-source-git-commit: 2c3d056451c5b7b4bf5603c22bf3bbdbc693491f
+source-git-commit: dc723f0848c56794e9a1a6eda405de2f4ea6b8fa
 
 ---
 
 
-# Netwerkinformatie{#network-information}
+# Netwerk{#network}
+
+> [!IMPORTANT]
+>
+> Adobe Experience Cloud Debugger 2.0 is momenteel in bèta. De documentatie en de functionaliteit kunnen worden gewijzigd.
 
 Klik op **[!UICONTROL Network]** om netwerkinformatie weer te geven.
 
@@ -25,7 +29,7 @@ Dit scherm is nuttig om zeer belangrijke waardeparen over klappen te vergelijken
 >
 >Op dit ogenblik, zijn niet alle parameters die in de oplossingsvraag worden overgegaan (bijvoorbeeld, de contextvariabelen van de Analyse, de douaneparameters van het Doel, of de Klant IDs van de Dienst van de Wolk van de Ervaring Cloud) zichtbaar in het scherm van het Netwerk.
 
-Om de informatie door oplossing te filtreren, selecteer de oplossing u van de lijst in linkernav wilt bekijken. In het volgende voorbeeld wordt alleen Analytics weergegeven:
+Om de informatie door oplossing te veranderen, selecteer de oplossing u van de lijst in linkernav wilt bekijken. In het volgende voorbeeld wordt alleen Analytics weergegeven:
 
 ![](assets/network-analytics.jpg)
 
