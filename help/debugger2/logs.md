@@ -6,14 +6,18 @@ seo-title: Logboeken
 title: Logboeken
 uuid: 8ce5fb57-c417-4674-864d-b7c03639a531
 translation-type: tm+mt
-source-git-commit: b4e96582174d2e36c4ad37f0f582b04d3bb199e1
+source-git-commit: dc723f0848c56794e9a1a6eda405de2f4ea6b8fa
 
 ---
 
 
 # Logboeken{#logs}
 
-Het Logs-scherm biedt specifieke informatie over DTM-implementaties. Het gereedschap Foutopsporing console voor DTM hoeft niet te zijn ingeschakeld om deze informatie weer te geven. U kunt filteren op oplossingen die zijn geïmplementeerd via de bijbehorende DTM-gereedschappen.
+> [!IMPORTANT]
+>
+> Adobe Experience Cloud Debugger 2.0 is momenteel in bèta. De documentatie en de functionaliteit kunnen worden gewijzigd.
+
+Het scherm Logs verstrekt informatie specifiek voor DTM, Lancering, en de implementaties van SDK van het Web AEP. Het gereedschap Foutopsporing console voor DTM hoeft niet te zijn ingeschakeld om deze informatie weer te geven. U kunt filteren op oplossingen die zijn geïmplementeerd via de bijbehorende gereedschappen.
 
 ![](assets/logs.jpg)
 
