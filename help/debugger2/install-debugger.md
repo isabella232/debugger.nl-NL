@@ -6,19 +6,23 @@ seo-title: Experience Cloud Debugger installeren
 title: Experience Cloud Debugger installeren
 uuid: 16d77c6d-11e7-4dfd-a846-3dace9f4070f
 translation-type: tm+mt
-source-git-commit: 2c3d056451c5b7b4bf5603c22bf3bbdbc693491f
+source-git-commit: dc723f0848c56794e9a1a6eda405de2f4ea6b8fa
 
 ---
 
 
-# Experience Cloud Debugger installeren{#install-experience-cloud-debugger}
+# Adobe Experience Platform Debugger installeren{#install-experience-platform-debugger}
 
-Download en installeer de extensie Adobe Experience Cloud Debugger.
+> [!IMPORTANT]
+>
+> Adobe Experience Cloud Debugger 2.0 is momenteel in bèta. De documentatie en de functionaliteit kunnen worden gewijzigd.
+
+Download en installeer Adobe Experience Platform Debugger.
 
 * **Chroom:** Van de [Chrome-extensiepagina](https://chrome.google.com/webstore/detail/adobe-experience-cloud-de/ocdmogmohccmeicdhlhhgepeaijenapj)
 * **Firefox:** Van de [Firefox-invoegpagina](https://addons.mozilla.org/en-US/firefox/addon/adobe-experience-platform-dbg/)
 
-Nadat u de extensie hebt geïnstalleerd, wordt een pictogram toegevoegd aan de extensiebalk:
+Nadat u de Chrome-extensie of de Firefox-invoegtoepassing hebt geïnstalleerd, wordt een pictogram toegevoegd aan de uitbreidingsbalk:
 
 ![](assets/start-icon.jpg)
 
@@ -26,10 +30,3 @@ Nadat u de extensie hebt geïnstalleerd, wordt een pictogram toegevoegd aan de e
 
 Klik op het pictogram om Foutopsporing te starten.
 
-Nadat Foutopsporing wordt geopend, kunt u de gewenste weergave selecteren door naar ****de **Donkere modus**(standaard) of de **Lichtmodus**te gaan.
-
-Terwijl u pagina&#39;s op uw site wijzigt, wordt het venster Foutopsporing bijgewerkt en worden de gegevens voor die pagina weergegeven. De naam van de pagina waarmee u verbinding hebt, wordt onder in het scherm weergegeven. Als u Foutopsporing op één pagina vergrendeld wilt houden, klikt u **[!UICONTROL Lock]** in de rechteronderhoek van het venster Foutopsporing.
-
-![](assets/lock.jpg)
-
-Dit is handig als u documentatie leest of informatie op een andere pagina bekijkt tijdens het opsporen van fouten in uw pagina.
