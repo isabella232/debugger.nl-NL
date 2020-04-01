@@ -6,7 +6,7 @@ seo-title: Tabbladen met oplossingen in Adobe Debugger
 title: Tabs Oplossing
 uuid: 5e999ef2-6399-4ab5-a841-3a839d081728
 translation-type: tm+mt
-source-git-commit: d7a54ea531ac09ea6bee356e47a1da835b3880e8
+source-git-commit: 9bb030d94db1a1e70ecda3d62caf542d7f750317
 
 ---
 
@@ -17,7 +17,7 @@ Klik op de tabbladen voor oplossingen om de resultaten voor specifieke Adobe Exp
 
 ## Analyse {#section-f71dfcc22bb44c86bec328491606a482}
 
-Het tabblad Analyse bevat informatie over de implementatie van [Analytics](https://experiencecloud.adobe.com/resources/help/en_US/reference/) .
+Het tabblad Analyse bevat informatie over de implementatie van [Analytics](https://docs.adobe.com/content/help/en/analytics/landing/home.html) .
 
 **Hits**
 
@@ -33,7 +33,7 @@ Klik op de rapportsuite-id om de weergave uit te vouwen:
 
 ![](assets/analytics-hits-expand.jpg)
 
-Dit scherm toont alle verzoeken aangezien Debugger werd geopend of de verzoeken werden ontruimd. Standaardparameters worden automatisch toegewezen aan vriendelijke namen. [Prop- en eVar](https://experiencecloud.adobe.com/resources/help/en_US/sc/implement/props_eVars.html) -variabelen kunnen worden toegewezen aan uw aangepaste vriendelijke namen (bijvoorbeeld &#39;prop1&#39; kan worden weergegeven als &#39;Type gebruiker&#39;) als u zich verifieert met de functie &#39;Analytics koppelen&#39; (zie hieronder). Verzoeken worden op volgorde van links naar rechts weergegeven.
+Dit scherm toont alle verzoeken aangezien Debugger werd geopend of de verzoeken werden ontruimd. Standaardparameters worden automatisch toegewezen aan vriendelijke namen. [Prop- en eVar](https://docs.adobe.com/content/help/en/analytics/implementation/vars/page-vars/evar.html) -variabelen kunnen worden toegewezen aan uw aangepaste vriendelijke namen (bijvoorbeeld &#39;prop1&#39; kan worden weergegeven als &#39;Type gebruiker&#39;) als u zich verifieert met de functie &#39;Analytics koppelen&#39; (zie hieronder). Verzoeken worden op volgorde van links naar rechts weergegeven.
 
 **Downloaden:** Sla alle aanvragen voor de rapportsuite op als Excel-spreadsheet.
 
@@ -93,7 +93,7 @@ In de volgende video ziet u Mbox-overtrek:
 
 ## Auditiebeheer {#section-1d4484f8b46f457f859ba88039a9a585}
 
-Gebruik het tabblad [Audience Manager](https://experiencecloud.adobe.com/resources/help/en_US/aam/) om details van [gebeurtenissen](https://experiencecloud.adobe.com/resources/help/en_US/aam/dcs-event-calls.html)weer te geven. Klik op de organisatie om deze uit te vouwen en de informatie weer te geven.
+Gebruik het tabblad [Audience Manager](https://docs.adobe.com/content/help/en/audience-manager/user-guide/aam-home.html) om details van [gebeurtenissen](https://docs.adobe.com/content/help/en/audience-manager/user-guide/api-and-sdk-code/dcs/dcs-event-calls/dcs-event-calls.html)weer te geven. Klik op de organisatie om deze uit te vouwen en de informatie weer te geven.
 
 ![](assets/audience-manager.jpg)
 
@@ -105,7 +105,7 @@ De synchronisatie van identiteitskaart is de eerste stap in het binnenkomende, a
 
 ![](assets/aam-idsync.jpg)
 
-Zie Synchronisatie van [identiteitskaart voor Binnenkomende Overdrachten](https://experiencecloud.adobe.com/resources/help/en_US/aam/c_id_sync_in.html) van Gegevens in de Documentatie van het Product van de Manager van de Auditie voor meer informatie.
+Zie Synchronisatie van [identiteitskaart voor Binnenkomende Overdrachten](https://docs.adobe.com/content/help/en/audience-manager/user-guide/implementation-integration-guides/sending-audience-data/batch-data-transfer-process/id-sync-http.html) van Gegevens in de Documentatie van het Product van de Manager van de Auditie voor meer informatie.
 
 ## Advertising Cloud {#section-ee80a9c509f2462c89c1e5bd8d05d7c8}
 
@@ -117,7 +117,7 @@ Klik **[!UICONTROL Clear All Requests]** om de momenteel getoonde verzoeken te v
 
 ## Experience Cloud ID Service {#section-a96c32f8e63a4991abb296f6e8ea01cf}
 
-Met het tabblad Experience Cloud ID Service kunt u aanvragen voor [Experience Cloud ID Service](https://experiencecloud.adobe.com/resources/help/en_US/mcvid/) bekijken.
+Met het tabblad Experience Cloud ID Service kunt u aanvragen voor [Experience Cloud ID Service](https://docs.adobe.com/content/help/en/id-service/using/home.html) bekijken.
 
 Klik **[!UICONTROL Requests]** en vouw de omgeving uit om informatie over Experience Cloud ID Service weer te geven.
 
