@@ -6,7 +6,7 @@ seo-title: Gereedschappen
 title: Gereedschappen
 uuid: ea3fe1ea-e936-4c5a-8a43-b830d1b75038
 translation-type: tm+mt
-source-git-commit: d7a54ea531ac09ea6bee356e47a1da835b3880e8
+source-git-commit: 9bb030d94db1a1e70ecda3d62caf542d7f750317
 
 ---
 
@@ -17,7 +17,7 @@ Op het scherm van Hulpmiddelen, kunt u diverse hulpmiddelen voor de geïnstallee
 
 ![](assets/tools.jpg)
 
-U kunt Launch of DTM dynamisch invoegen op elke pagina om iets te testen op een pagina waarop Launch of DTM niet is geïnstalleerd. Klik op het **[!UICONTROL Embed Code]** pictogram, typ de [insluitcode](https://experiencecloud.adobe.com/resources/help/en_US/dtm/deployment.html) en klik op **[!UICONTROL Save]**.
+U kunt Launch of DTM dynamisch invoegen op elke pagina om iets te testen op een pagina waarop Launch of DTM niet is geïnstalleerd. Klik op het **[!UICONTROL Embed Code]** pictogram, typ de [insluitcode](https://docs.adobe.com/content/help/en/dtm/using/client-side/deployment.html) en klik op **[!UICONTROL Save]**.
 
 ![](assets/tools-embedcode.jpg)
 
