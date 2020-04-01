@@ -6,7 +6,7 @@ seo-title: Samenvattingsscherm
 title: Samenvattingsscherm
 uuid: 46b17eaa-b611-43cf-8c6a-67b2e9b9d940
 translation-type: tm+mt
-source-git-commit: d7a54ea531ac09ea6bee356e47a1da835b3880e8
+source-git-commit: 9bb030d94db1a1e70ecda3d62caf542d7f750317
 
 ---
 
@@ -62,19 +62,19 @@ Debugger toont de volgende informatie voor elke oplossing:
  <tbody> 
   <tr> 
    <td colname="col1"> <p>Rapportsuite(s) </p> </td> 
-   <td colname="col2"> <p>Een <a href="https://experiencecloud.adobe.com/resources/help/en_US/reference/report_suites_admin.html" format="html" scope="external"> rapportsuite</a> definieert de volledige, onafhankelijke rapportage op een gekozen website, set websites of subset van webpagina's </p> </td> 
+   <td colname="col2"> <p>Een <a href="https://docs.adobe.com/content/help/en/analytics/admin/manage-report-suites/report-suites-admin.html" format="html" scope="external"> rapportsuite</a> definieert de volledige, onafhankelijke rapportage op een gekozen website, set websites of subset van webpagina's </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Versie </p> </td> 
-   <td colname="col2"> <p>De <a href="https://experiencecloud.adobe.com/resources/help/en_US/sc/implement/appmeasure_mjs.html" format="html" scope="external"> versie AppMeasurement</a> die is gedefinieerd voor de pagina </p> </td> 
+   <td colname="col2"> <p>De <a href="https://docs.adobe.com/content/help/en/analytics/implementation/js/overview.html" format="html" scope="external"> versie AppMeasurement</a> die is gedefinieerd voor de pagina </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Versie bezoeker </p> </td> 
-   <td colname="col2"> <p>De versie van de bibliotheek met <a href="https://experiencecloud.adobe.com/resources/help/en_US/sc/implement/visid_analytics.html" format="html" scope="external"> bezoekersidentiteitskaart</a> . </p> </td> 
+   <td colname="col2"> <p>De versie van de bibliotheek met <a href="https://docs.adobe.com/content/help/en/analytics/technotes/visitor-identification.html" format="html" scope="external"> bezoekersidentiteitskaart</a> . </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Paginanaam </p> </td> 
-   <td colname="col2"> <p>De variabele <a href="https://experiencecloud.adobe.com/resources/help/en_US/sc/implement/pageName.html" format="html" scope="external"> pageName</a> die naar Analytics wordt verzonden die een gebruikersvriendelijke naam van de site bevat. </p> </td> 
+   <td colname="col2"> <p>De variabele <a href="https://docs.adobe.com/content/help/en/analytics/implementation/vars/page-vars/page-variables.html" format="html" scope="external"> pageName</a> die naar Analytics wordt verzonden die een gebruikersvriendelijke naam van de site bevat. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Modules </p> </td> 
@@ -89,15 +89,15 @@ Debugger toont de volgende informatie voor elke oplossing:
  <tbody> 
   <tr> 
    <td colname="col1"> <p>Partner </p> </td> 
-   <td colname="col2"> <p>De <a href="https://experiencecloud.adobe.com/resources/help/en_US/aam/r_dil_get_partner.html" format="html" scope="external"> partnernaam</a> voor de instantie DIL </p> </td> 
+   <td colname="col2"> <p>De <a href="https://docs.adobe.com/content/help/en/audience-manager/user-guide/dil-api/dil-instance-methods.html#getpartner" format="html" scope="external"> partnernaam</a> voor de instantie DIL </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Versie </p> </td> 
-   <td colname="col2"> <p>Het<a href="https://experiencecloud.adobe.com/resources/help/en_US/aam/r_api_return_versions_dil.html" format="html" scope="external"> versienummer</a> van de instantie DIL </p> </td> 
+   <td colname="col2"> <p>Het<a href="https://docs.adobe.com/content/help/en/audience-manager/user-guide/api-and-sdk-code/rest-apis/aam-api-dil-methods.html#return-version-dil" format="html" scope="external"> versienummer</a> van de instantie DIL </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>UUID </p> </td> 
-   <td colname="col2"> <p>De <a href="https://experiencecloud.adobe.com/resources/help/en_US/aam/ids-in-aam.html" format="html" scope="external"> unieke gebruikersnaam</a> die aan het DIL-exemplaar is gekoppeld </p> </td> 
+   <td colname="col2"> <p>De <a href="https://docs.adobe.com/content/help/en/audience-manager/user-guide/reference/ids-in-aam.html" format="html" scope="external"> unieke gebruikersnaam</a> die aan het DIL-exemplaar is gekoppeld </p> </td> 
   </tr> 
  </tbody> 
 </table>
@@ -108,19 +108,19 @@ Debugger toont de volgende informatie voor elke oplossing:
  <tbody> 
   <tr> 
    <td colname="col1"> <p>Naam </p> </td> 
-   <td colname="col2"> <p>De naam van de <a href="https://docs.adobelaunch.com/administration/companies-and-properties" format="https" scope="external"> eigenschap Adobe Launch</a> </p> </td> 
+   <td colname="col2"> <p>De naam van de <a href="https://docs.adobe.com/content/help/en/launch/using/reference/admin/companies-and-properties.html" format="https" scope="external"> eigenschap Adobe Launch</a> </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Versie </p> </td> 
-   <td colname="col2"> <p>De versie van <a href="https://developer.adobelaunch.com/guides/extensions/turbine-free-variable/" format="https" scope="external"> Turbine</a> </p> </td> 
+   <td colname="col2"> <p>De versie van <a href="https://developer.adobelaunch.com/extensions/reference/turbine-free-variable/" format="https" scope="external"> Turbine</a> </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Bouwdatum </p> </td> 
-   <td colname="col2"> <p>De <a href="https://docs.adobelaunch.com/publishing/libraries" format="https" scope="external"> bouwdatum van de bibliotheek</a> starten </p> </td> 
+   <td colname="col2"> <p>De <a href="https://docs.adobe.com/content/help/en/launch/using/reference/publish/libraries.html" format="https" scope="external"> bouwdatum van de bibliotheek</a> starten </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Omgeving </p> </td> 
-   <td colname="col2"> <p>De <a href="https://docs.adobelaunch.com/administration/environments" format="https" scope="external"> omgeving</a> die wordt gebruikt door de Launch-bibliotheek </p> </td> 
+   <td colname="col2"> <p>De <a href="https://docs.adobe.com/content/help/en/launch/using/reference/publish/environments.html" format="https" scope="external"> omgeving</a> die wordt gebruikt door de Launch-bibliotheek </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Scriptmap </p> </td> 
@@ -135,7 +135,7 @@ Debugger toont de volgende informatie voor elke oplossing:
  <tbody> 
   <tr> 
    <td colname="col1"> <p>Bibliotheeknaam </p> </td> 
-   <td colname="col2"> <p>De naam van de Adobe DTM<a href="https://experiencecloud.adobe.com/resources/help/en_US/dtm/library_management.html" format="html" scope="external"> -bibliotheek</a> </p> </td> 
+   <td colname="col2"> <p>De naam van de Adobe DTM<a href="https://docs.adobe.com/content/help/en/dtm/using/library-management.html" format="html" scope="external"> -bibliotheek</a> </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Versie </p> </td> 
@@ -143,7 +143,7 @@ Debugger toont de volgende informatie voor elke oplossing:
   </tr> 
   <tr> 
    <td colname="col1"> <p>Bouwdatum </p> </td> 
-   <td colname="col2"> <p>De <a href="https://experiencecloud.adobe.com/resources/help/en_US/dtm/library_management.html" format="html" scope="external"> bouwdatum van de bibliotheek</a> starten </p> </td> 
+   <td colname="col2"> <p>De <a href="https://docs.adobe.com/content/help/en/dtm/using/library-management.html" format="html" scope="external"> bouwdatum van de bibliotheek</a> starten </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Omgeving </p> </td> 
@@ -162,11 +162,11 @@ Debugger toont de volgende informatie voor elke oplossing:
  <tbody> 
   <tr> 
    <td colname="col1"> <p>Experience Cloud Org ID </p> </td> 
-   <td colname="col2"> <p>Je <a href="https://experiencecloud.adobe.com/resources/help/en_US/mcvid/" format="https" scope="external"> organisatie-id</a> </p> </td> 
+   <td colname="col2"> <p>Je <a href="https://docs.adobe.com/content/help/en/id-service/using/home.html" format="https" scope="external"> organisatie-id</a> </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Versie </p> </td> 
-   <td colname="col2"> <p>De versie van de bibliotheek met<a href="https://experiencecloud.adobe.com/resources/help/en_US/sc/implement/visid_analytics.html" format="html" scope="external"> bezoekersidentiteitskaart</a> </p> </td> 
+   <td colname="col2"> <p>De versie van de bibliotheek met<a href="https://docs.adobe.com/content/help/en/analytics/technotes/visitor-identification.html" format="html" scope="external"> bezoekersidentiteitskaart</a> </p> </td> 
   </tr> 
  </tbody> 
 </table>
