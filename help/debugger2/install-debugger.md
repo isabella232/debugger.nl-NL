@@ -6,16 +6,16 @@ seo-title: Experience Cloud Debugger installeren
 title: Experience Cloud Debugger installeren
 uuid: 16d77c6d-11e7-4dfd-a846-3dace9f4070f
 translation-type: tm+mt
-source-git-commit: 3b2fd709419b40e0503baef9a39128ddbf4875b3
+source-git-commit: 3dc1876c0516b7a81f68a207c6a1651bc95b17ab
 
 ---
 
 
 # Adobe Experience Platform Debugger installeren{#install-experience-platform-debugger}
 
-> [!IMPORTANT]
+>[!IMPORTANT]
 >
-> Adobe Experience Cloud Debugger 2.0 is momenteel in bèta. De documentatie en de functionaliteit kunnen worden gewijzigd.
+>Adobe Experience Cloud Debugger 2.0 is momenteel in bèta. De documentatie en de functionaliteit kunnen worden gewijzigd.
 
 Download en installeer Adobe Experience Platform Debugger.
 
