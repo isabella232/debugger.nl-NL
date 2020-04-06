@@ -5,16 +5,16 @@ seo-description: 'null'
 seo-title: Experience Cloud Debugger configureren
 title: Experience Cloud Debugger configureren
 translation-type: tm+mt
-source-git-commit: dc723f0848c56794e9a1a6eda405de2f4ea6b8fa
+source-git-commit: 3dc1876c0516b7a81f68a207c6a1651bc95b17ab
 
 ---
 
 
 # Foutopsporing configureren
 
-> [!IMPORTANT]
+>[!IMPORTANT]
 >
-> Adobe Experience Cloud Debugger 2.0 is momenteel in bèta. De documentatie en de functionaliteit kunnen worden gewijzigd.
+>Adobe Experience Cloud Debugger 2.0 is momenteel in bèta. De documentatie en de functionaliteit kunnen worden gewijzigd.
 
 U kunt bepaalde aspecten van vormen hoe Debugger kijkt en werkt.
 
