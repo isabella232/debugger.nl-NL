@@ -2,18 +2,18 @@
 description: 'null'
 keywords: debugger;experience cloud debugger extension;chrome;extension;release notes
 seo-description: 'null'
-seo-title: Opmerkingen bij de release
-title: Opmerkingen bij de release
+seo-title: Release-opmerkingen
+title: Release-opmerkingen
 uuid: 47a5d6f3-c074-4ad5-ad4b-e6030496689b
 translation-type: tm+mt
-source-git-commit: d7a54ea531ac09ea6bee356e47a1da835b3880e8
+source-git-commit: de5a56677aade8d3cec0e3d6bf82d4f66d259bb1
 
 ---
 
 
-# Opmerkingen bij de release{#release-notes}
+# Release-opmerkingen{#release-notes}
 
-## Opmerkingen bij de release {#topic-a92c3eb799b74e7fa404af8af5efb215}
+## Release-opmerkingen {#topic-a92c3eb799b74e7fa404af8af5efb215}
 
 ## Versie 0.0.817 mei 2019 {#topic-5dc9026cac864330b04361b1da8309a8}
 
@@ -57,7 +57,7 @@ source-git-commit: d7a54ea531ac09ea6bee356e47a1da835b3880e8
  </tbody> 
 </table>
 
-## Opgeloste problemen {#section-f5e9d54e9d2546afb97972cdb6d8a093}
+## Bug Fixes {#section-f5e9d54e9d2546afb97972cdb6d8a093}
 
 * Probleem verholpen waarbij de voettekst inhoud aan de onderkant van de pagina verbergt.
 
@@ -83,11 +83,11 @@ source-git-commit: d7a54ea531ac09ea6bee356e47a1da835b3880e8
  </tbody> 
 </table>
 
-## Verbeteringen {#section-e9e8a6ddedde4c029b1d3d69c009cbad}
+## Improvements {#section-e9e8a6ddedde4c029b1d3d69c009cbad}
 
 * Oplossing voor een mogelijke kwetsbaarheid die wordt veroorzaakt door niet-gemanipuleerde gebruikersinvoer.
 
-## Opgeloste problemen {#section-556417ff055848c1bf037354dd43cbd0}
+## Bug Fixes {#section-556417ff055848c1bf037354dd43cbd0}
 
 * Probleem verholpen waarbij AAM DIL-gebeurtenissen niet werden vastgelegd op het tabblad AAM
 
@@ -126,12 +126,12 @@ source-git-commit: d7a54ea531ac09ea6bee356e47a1da835b3880e8
  </tbody> 
 </table>
 
-## Verbeteringen {#section-56003a12c32f4998bf1cf2a25a518592}
+## Improvements {#section-56003a12c32f4998bf1cf2a25a518592}
 
 * De weergave van het tabblad Netwerk is verbeterd, zodat de hoogte van de tabel niet te groot wordt en de gebruiker verticaal moet schuiven voordat hij of zij horizontaal kan schuiven. Eerder werden de schuifbalken onder aan de tabel weergegeven. Omdat de tabel vrij groot kon worden, moesten gebruikers verticaal omlaag schuiven om ze te kunnen zien.
 * De koppeling naar ObservePoint is bijgewerkt via het tabblad Extra.
 
-## Opgeloste problemen {#section-d9231f5c77254d0888347e5f569a8b1d}
+## Bug Fixes {#section-d9231f5c77254d0888347e5f569a8b1d}
 
 * Probleem verholpen waarbij het tabblad Experience Cloud niet werd bijgewerkt
 
@@ -169,12 +169,12 @@ Versie 0.0.803 omvat geen klant-onder ogen ziet veranderingen.
  </tbody> 
 </table>
 
-## Verbeteringen {#section-0e7090e3e6a645f085d4553b983ecff8}
+## Improvements {#section-0e7090e3e6a645f085d4553b983ecff8}
 
 * Naam van Media Optimizer is gewijzigd in Advertising Cloud
 * Verwijderde oplossingen van het lusje van het Netwerk als niet gevonden
 
-## Opgeloste problemen {#section-7c0e4cc4b00a428489bed4a0a27c9501}
+## Bug Fixes {#section-7c0e4cc4b00a428489bed4a0a27c9501}
 
 * Correctie van een probleem waarbij de functie &#39;Klik op cel om weer te geven&#39; niet was bijgewerkt. Dit probleem is nu opgelost.
 * Probleem verholpen waarbij AAM-treffers niet werden weergegeven op het tabblad AAM
@@ -219,12 +219,12 @@ Versie 0.0.803 omvat geen klant-onder ogen ziet veranderingen.
   </tr> 
   <tr> 
    <td colname="col1"> <p>Help-koppeling bijwerken in voettekst </p> </td> 
-   <td colname="col2"> <p>Update Help link in footer to <a href="https://marketing.adobe.com/resources/help/en_US/experience-cloud-debugger/" format="https" scope="external"> https://marketing.adobe.com/resources/help/en_US/experience-cloud-debugger/</a> </p> </td> 
+   <td colname="col2"> <p>Update Help link in footer to <a href="https://docs.adobe.com/content/help/en/debugger/using/experience-cloud-debugger.html" format="https" scope="external"> https://docs.adobe.com/content/help/en/debugger/using/experience-cloud-debugger.html</a> </p> </td> 
   </tr> 
  </tbody> 
 </table>
 
-## Opgeloste problemen {#section-c292cf7dcb17463bb1928de73bd55121}
+## Bug Fixes {#section-c292cf7dcb17463bb1928de73bd55121}
 
 * Probleem verholpen waarbij het badnummer niet werd gewist
 * Probleem verholpen waarbij een klant lege beknopte gegevens meldde.
