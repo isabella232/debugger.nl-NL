@@ -7,6 +7,9 @@ title: Samenvattingsscherm
 uuid: 46b17eaa-b611-43cf-8c6a-67b2e9b9d940
 translation-type: tm+mt
 source-git-commit: 3dc1876c0516b7a81f68a207c6a1651bc95b17ab
+workflow-type: tm+mt
+source-wordcount: '927'
+ht-degree: 0%
 
 ---
 
@@ -17,7 +20,7 @@ source-git-commit: 3dc1876c0516b7a81f68a207c6a1651bc95b17ab
 >
 >Adobe Experience Cloud Debugger 2.0 is momenteel in bèta. De documentatie en de functionaliteit kunnen worden gewijzigd.
 
-Als u foutopsporing voor het Adobe Experience Platform wilt uitvoeren, klikt u op het pictogram op de browserbalk en opent u vervolgens de pagina die u wilt controleren in de browser.
+Als u de Adobe Experience Platform Debugger wilt uitvoeren, klikt u op het pictogram op de browserbalk en opent u de pagina die u wilt controleren in de browser.
 
 ![](assets/start-icon.jpg)
 
@@ -58,7 +61,7 @@ Debugger toont de volgende informatie voor elke oplossing:
  </tbody> 
 </table>
 
-**Auditiebeheer**
+**Audience Manager**
 
 <table id="table_784AEABADBDA4D14BB9A7A9CB9EF07C3"> 
  <tbody> 
@@ -122,7 +125,7 @@ Debugger toont de volgende informatie voor elke oplossing:
   </tr> 
   <tr> 
    <td colname="col1"> <p>Edge-domein </p> </td> 
-   <td colname="col2"> <p>Het domein dat de extensie Adobe Experience Platform verzendt en ontvangt gegevens van </p> </td> 
+   <td colname="col2"> <p>Het domein dat de extensie Adobe Experience Platform verzendt en gegevens ontvangt van </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>IMS Organisatie-id </p> </td> 
@@ -150,13 +153,13 @@ Debugger toont de volgende informatie voor elke oplossing:
  </tbody> 
 </table>
 
-**Adobe-doel**
+**Adobe Target**
 
 <table id="table_D30E0CD20FB04E41862B22655136E043"> 
  <tbody> 
   <tr> 
    <td colname="col1"> <p>Clientcode </p> </td> 
-   <td colname="col2"> <p>Uw doelclientcode <a href="https://docs.adobe.com/content/help/en/target/using/implement-target/client-side/deploy-at-js/implementing-target-without-a-tag-manager.html" format="html" scope="external"></a> </p> </td> 
+   <td colname="col2"> <p>Uw doelclientcode <a href="https://docs.adobe.com/content/help/en/target/using/implement-target/client-side/deploy-at-js/implementing-target-without-a-tag-manager.html" format="html" scope="external"> </a> </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Versie </p> </td> 
