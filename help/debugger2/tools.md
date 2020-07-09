@@ -6,18 +6,21 @@ seo-title: Gereedschappen
 title: Gereedschappen
 uuid: ea3fe1ea-e936-4c5a-8a43-b830d1b75038
 translation-type: tm+mt
-source-git-commit: 3dc1876c0516b7a81f68a207c6a1651bc95b17ab
+source-git-commit: 5a84797bda8c29f1e691de418c9837c76a63c17f
+workflow-type: tm+mt
+source-wordcount: '396'
+ht-degree: 1%
 
 ---
 
 
-# Gereedschappen{#tools}
+# Tools{#tools}
 
 >[!IMPORTANT]
 >
 >Adobe Experience Cloud Debugger 2.0 is momenteel in bèta. De documentatie en de functionaliteit kunnen worden gewijzigd.
 
-Op het scherm van Hulpmiddelen, kunt u diverse hulpmiddelen voor de geïnstalleerde oplossing toelaten of onbruikbaar maken. U kunt bijvoorbeeld de foutopsporingsinstructies voor de console van Target inschakelen of de DTM Staging Library gebruiken. Deze gereedschappen zijn alleen beschikbaar als Target en DTM op de pagina zijn geïnstalleerd.
+Op het scherm van Hulpmiddelen, kunt u diverse hulpmiddelen voor de geïnstalleerde oplossing toelaten of onbruikbaar maken. U kunt bijvoorbeeld foutopsporingsinstructies voor de Target-console inschakelen of de DTM Staging Library gebruiken. Deze gereedschappen zijn alleen beschikbaar als Target en DTM op uw pagina zijn geïnstalleerd.
 
 ![](assets/tools.jpg)
 
@@ -54,7 +57,7 @@ U kunt Launch of DTM dynamisch invoegen op elke pagina om iets te testen op een 
  </tbody> 
 </table>
 
-## Doelgegevens {#section-31090d95f50e455692b672c26e6a2051}
+## Target-informatie {#section-31090d95f50e455692b672c26e6a2051}
 
 <table id="table_A71D269B49F4417599EBACA44D5CCF4F"> 
  <thead> 
@@ -65,16 +68,16 @@ U kunt Launch of DTM dynamisch invoegen op elke pagina om iets te testen op een 
  </thead>
  <tbody> 
   <tr> 
-   <td colname="col1"> <p>Logboekregistratie doelconsole </p> </td> 
-   <td colname="col2"> <p>Dit hulpmiddel stelt doel-specifieke het zuiveren verklaringen aan de browser console, allen die met <span class="codeph"> AT beginnen bloot:</span> door een cookie met de naam <span class="codeph"> mboxDebug=true</span> aan uw browser toe te voegen. Op dit ogenblik, verschijnen de consoleverklaringen niet binnen het Debugger Logs scherm, maar zijn zichtbaar in de browser inheemse het zuiveren console. </p> <p> Voor dit gereedschap is 0.js 0.9.6+ vereist. Als u een oudere versie van at.js gebruikt, kunt u de parameter van het <span class="codeph"> ?mboxDebug=true</span> vraagkoord aan uw URL toevoegen om consoleregistratie aan te zetten. Als u mbox.js gebruikt, kunt u de parameter toevoegen <span class="codeph"> ?_AT_Debug=console</span> om consoleregistratie aan te zetten die tot de activiteiten van Composer van de Visuele Ervaring wordt beperkt. </p> </td> 
+   <td colname="col1"> <p>Logboekregistratie voor Target-console </p> </td> 
+   <td colname="col2"> <p>Dit hulpmiddel stelt Target-specifieke het zuiveren verklaringen aan de browser console bloot, die allen met <span class="codeph"> AT beginnen:</span> door een cookie met de naam <span class="codeph"> mboxDebug=true</span> aan uw browser toe te voegen. Op dit ogenblik, verschijnen de consoleverklaringen niet binnen het Debugger Logs scherm, maar zijn zichtbaar in de browser inheemse het zuiveren console. </p> <p> Voor dit gereedschap is 0.js 0.9.6+ vereist. Als u een oudere versie van at.js gebruikt, kunt u de parameter van het <span class="codeph"> ?mboxDebug=true</span> vraagkoord aan uw URL toevoegen om consoleregistratie aan te zetten. Als u mbox.js gebruikt, kunt u de parameter toevoegen <span class="codeph"> ?_AT_Debug=console</span> om consoleregistratie aan te zetten die tot de activiteiten van Composer van de Visuele Ervaring wordt beperkt. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p> Mbox-sporen inschakelen </p> </td> 
-   <td colname="col2"> <p>Dit hulpmiddel voegt gedetailleerde informatie aan de Reacties van het Doel toe, die in het <span class="uicontrol"> Doel&gt;scherm van het Spoor</span> van het Debugger kan worden onderzocht. </p> <p> U moet op een van uw tabbladen voor Chrome zijn aangemeld bij de Experience Cloud om dit gereedschap in te schakelen. </p> </td> 
+   <td colname="col2"> <p>Dit hulpmiddel voegt gedetailleerde informatie aan Target reacties toe, die in het scherm <span class="uicontrol"> Target&gt;Mbox Trace</span> van debugger kan worden onderzocht. </p> <p> U moet op een van uw tabbladen Chrome zijn aangemeld bij de Experience Cloud om dit gereedschap in te schakelen. </p> </td> 
   </tr> 
   <tr> 
-   <td colname="col1"> <p>Doel uitschakelen </p> </td> 
-   <td colname="col2"> <p>Dit hulpmiddel maakt alle verzoeken van het Doel onbruikbaar door een koekje genoemd <span class="codeph"> mboxDisable=true</span> aan uw browser toe te voegen. </p> <p> Voor dit gereedschap is 0.js 0.9.6+ vereist. Als u een oudere versie gebruikt, kunt u de parameter van het <span class="codeph"> ?mboxDisable=true </span>vraagkoord aan uw URL toevoegen om dozen onbruikbaar te maken. </p> </td> 
+   <td colname="col1"> <p>Target uitschakelen </p> </td> 
+   <td colname="col2"> <p>Met dit gereedschap worden alle Target-aanvragen uitgeschakeld door een cookie met de naam <span class="codeph"> mboxDisable=true</span> toe te voegen aan uw browser. </p> <p> Voor dit gereedschap is 0.js 0.9.6+ vereist. Als u een oudere versie gebruikt, kunt u de parameter van het <span class="codeph"> ?mboxDisable=true </span>vraagkoord aan uw URL toevoegen om dozen onbruikbaar te maken. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p> Mbox Highlight </p> </td> 
