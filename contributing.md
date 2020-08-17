@@ -1,6 +1,9 @@
 ---
-source-git-commit: a29fa566513ef1b69e3b0b4be1d4cb2c22c72fe1
+source-git-commit: 66d296edea6f82bacc167db1291a466f2a7a2701
+workflow-type: tm+mt
 translation-type: tm+mt
+source-wordcount: '281'
+ht-degree: 23%
 
 ---
 # Bijdragen
@@ -20,7 +23,7 @@ Begin met het indienen van een probleem. De bestaande comités voor dit project 
 
 ## Licentieovereenkomst voor contribuant
 
-Alle bijdragen van derden aan dit project moeten vergezeld gaan van een ondertekende bijdrageovereenkomst. Dit geeft Adobe de toestemming om uw bijdragen als deel van het project opnieuw te verdelen. [Onderteken onze CLA](http://opensource.adobe.com/cla.html). U hoeft slechts één keer een Adobe CLA te verzenden, dus als u al een eerder hebt verzonden, kunt u het beste gaan!
+Alle bijdragen van derden aan dit project moeten vergezeld gaan van een ondertekende bijdrageovereenkomst. Dit geeft Adobe de toestemming om uw bijdragen als deel van het project opnieuw te verdelen. [Onderteken onze CLA](https://opensource.adobe.com/cla.html). U hoeft slechts één keer een Adobe CLA in te dienen, dus als u eerder een CLA hebt verzonden, kunt u het beste gaan!
 
 ## Codebeoordelingen
 
