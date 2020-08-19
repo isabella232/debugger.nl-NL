@@ -1,12 +1,15 @@
 ---
-description: 'null'
+description: Opmerkingen bij de release voor Experience Cloud Debugger
 keywords: debugger;experience cloud debugger extension;chrome;extension;release notes
-seo-description: 'null'
+seo-description: Opmerkingen bij de release voor Experience Cloud Debugger
 seo-title: Release-opmerkingen
 title: Release-opmerkingen
 uuid: 47a5d6f3-c074-4ad5-ad4b-e6030496689b
 translation-type: tm+mt
-source-git-commit: de5a56677aade8d3cec0e3d6bf82d4f66d259bb1
+source-git-commit: 1d81f427e2c1a68a182fae8262d0e2ad32a87223
+workflow-type: tm+mt
+source-wordcount: '699'
+ht-degree: 6%
 
 ---
 
@@ -52,7 +55,7 @@ source-git-commit: de5a56677aade8d3cec0e3d6bf82d4f66d259bb1
   </tr> 
   <tr> 
    <td colname="col1"> <p>Adobe Audience Manager </p> </td> 
-   <td colname="col2"> <p>Foutopsporing geeft nu AAM-reacties weer </p> </td> 
+   <td colname="col2"> <p>Foutopsporing geeft nu AAM reacties weer </p> </td> 
   </tr> 
  </tbody> 
 </table>
@@ -83,13 +86,13 @@ source-git-commit: de5a56677aade8d3cec0e3d6bf82d4f66d259bb1
  </tbody> 
 </table>
 
-## Improvements {#section-e9e8a6ddedde4c029b1d3d69c009cbad}
+## Verbeteringen {#section-e9e8a6ddedde4c029b1d3d69c009cbad}
 
 * Oplossing voor een mogelijke kwetsbaarheid die wordt veroorzaakt door niet-gemanipuleerde gebruikersinvoer.
 
 ## Bug Fixes {#section-556417ff055848c1bf037354dd43cbd0}
 
-* Probleem verholpen waarbij AAM DIL-gebeurtenissen niet werden vastgelegd op het tabblad AAM
+* Probleem verholpen waarbij AAM DIL-gebeurtenissen niet werden vastgelegd op het tabblad AAM. Dit probleem is nu opgelost.
 
 * Probleem verholpen in Dynamisch het Lanceren van het Tussenvoegsel waar het gebruikersinterface aan een verschillende inbedcode leek in kaart te brengen wanneer het niet was
 * Probleem verholpen in Launch dynamisch invoegen waarbij een ongeldige URL werd weergegeven. Dit probleem is nu opgelost.
@@ -126,7 +129,7 @@ source-git-commit: de5a56677aade8d3cec0e3d6bf82d4f66d259bb1
  </tbody> 
 </table>
 
-## Improvements {#section-56003a12c32f4998bf1cf2a25a518592}
+## Verbeteringen {#section-56003a12c32f4998bf1cf2a25a518592}
 
 * De weergave van het tabblad Netwerk is verbeterd, zodat de hoogte van de tabel niet te groot wordt en de gebruiker verticaal moet schuiven voordat hij of zij horizontaal kan schuiven. Eerder werden de schuifbalken onder aan de tabel weergegeven. Omdat de tabel vrij groot kon worden, moesten gebruikers verticaal omlaag schuiven om ze te kunnen zien.
 * De koppeling naar ObservePoint is bijgewerkt via het tabblad Extra.
@@ -135,7 +138,7 @@ source-git-commit: de5a56677aade8d3cec0e3d6bf82d4f66d259bb1
 
 * Probleem verholpen waarbij het tabblad Experience Cloud niet werd bijgewerkt
 
-* Probleem verholpen waarbij Media Optimizer werd weergegeven in de rij Oplossing van het tabblad Netwerk in plaats van de huidige naam van de &quot;Advertising Cloud&quot;. Dit probleem is nu opgelost.
+* Probleem verholpen waarbij Media Optimizer in de rij Oplossing van het tabblad Netwerk werd weergegeven in plaats van de huidige naam &quot;Advertising Cloud&quot;. Dit probleem is nu opgelost.
 * Probleem verholpen waarbij Foutopsporing _satelliet op elke pagina injecteerde.
 
 ## Versie 0.0.803 10 augustus 2018 {#topic-d2901fb70ce04a5586f6c7a994fce875}
@@ -169,7 +172,7 @@ Versie 0.0.803 omvat geen klant-onder ogen ziet veranderingen.
  </tbody> 
 </table>
 
-## Improvements {#section-0e7090e3e6a645f085d4553b983ecff8}
+## Verbeteringen {#section-0e7090e3e6a645f085d4553b983ecff8}
 
 * Naam van Media Optimizer is gewijzigd in Advertising Cloud
 * Verwijderde oplossingen van het lusje van het Netwerk als niet gevonden
@@ -177,7 +180,7 @@ Versie 0.0.803 omvat geen klant-onder ogen ziet veranderingen.
 ## Bug Fixes {#section-7c0e4cc4b00a428489bed4a0a27c9501}
 
 * Correctie van een probleem waarbij de functie &#39;Klik op cel om weer te geven&#39; niet was bijgewerkt. Dit probleem is nu opgelost.
-* Probleem verholpen waarbij AAM-treffers niet werden weergegeven op het tabblad AAM
+* Probleem verholpen waarbij AAM treffers niet werden weergegeven op AAM tabblad
 
 ## Versie 0.0.798 14 juni 2018 {#topic-3b2d44277f2f4c0295d82724c34bf467}
 
