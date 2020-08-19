@@ -1,19 +1,22 @@
 ---
-description: 'null'
+description: Experience Cloud Debugger wordt uitgevoerd
 keywords: debugger;experience cloud debugger extension;chrome;extension;summary;clear;requests;summary screen;solution;information;analytics;target;dtm;audience manager;launch;id service
-seo-description: 'null'
+seo-description: Experience Cloud Debugger wordt uitgevoerd
 seo-title: Samenvattingsscherm
 title: Samenvattingsscherm
 uuid: 46b17eaa-b611-43cf-8c6a-67b2e9b9d940
 translation-type: tm+mt
-source-git-commit: 9bb030d94db1a1e70ecda3d62caf542d7f750317
+source-git-commit: 1d81f427e2c1a68a182fae8262d0e2ad32a87223
+workflow-type: tm+mt
+source-wordcount: '1035'
+ht-degree: 2%
 
 ---
 
 
 # Samenvattingsscherm{#summary-screen}
 
-Als u Foutopsporing in de cloud wilt uitvoeren, klikt u op het extensiepictogram in de extensiebalk en opent u vervolgens de pagina die u wilt onderzoeken in Chrome.
+Als u de Experience Cloud Debugger wilt uitvoeren, klikt u op het extensiepictogram in de extensiebalk en opent u de pagina die u wilt controleren in Chrome.
 
 ![](assets/start-icon.jpg)
 
@@ -21,17 +24,17 @@ Het scherm Adobe Experience Cloud Debugger Summary wordt weergegeven.
 
 ![](assets/summary.jpg)
 
-In dit scherm ziet u een miniatuur van de pagina, de URL en de titel van de pagina. Het bevat ook informatie over elke Adobe Experience Cloud-oplossing. De getoonde informatie varieert per oplossing, maar omvat typisch informatie met inbegrip van de oplossingsbibliotheek en versie (bijvoorbeeld, &quot;AppMeasurement v2.9&quot;) en rekeningsherkenningstekens (zoals de het rapportsuite identiteitskaart van de Analyse, de de cliëntcode van het Doel, de de partneridentiteitskaart van de Manager van het Publiek, etc.)
+In dit scherm ziet u een miniatuur van de pagina, de URL en de titel van de pagina. Het toont ook informatie over elke oplossing van Adobe Experience Cloud. De getoonde informatie varieert per oplossing, maar omvat typisch informatie met inbegrip van de oplossingsbibliotheek en versie (bijvoorbeeld, &quot;AppMeasurement v2.9&quot;) en rekeningsherkenningstekens (zoals de het rapportsuite identiteitskaart van de Analyse, de cliëntcode van het Doel, identiteitskaart van de partner van de Audience Manager, etc.)
 
 De aantallen in blauw naast de lusjes bij de bovenkant van het venster tonen het aantal servervraag die is gemaakt. U kunt deze terugstellen aan nul door binnen **[!UICONTROL Clear All Requests]** het respectieve lusje te klikken.
 
-In de volgende afbeelding ziet u bijvoorbeeld informatie over Adobe Target. Merk op dat om de hieronder getoonde activiteitendetails zonder authentificatie bloot te stellen, u de het Zuiveren gebeurtenisluisteraar in uw code of markeringsmanager moet uitvoeren en de noodzakelijke [reactietokens](https://docs.adobe.com/content/help/en/target/using/administer/response-tokens.html) in het Doel UI aanzetten.
+In de volgende afbeelding wordt bijvoorbeeld informatie over Adobe Target weergegeven. Merk op dat om de hieronder getoonde activiteitendetails zonder authentificatie bloot te stellen, u de het Zuiveren gebeurtenisluisteraar in uw code of markeringsmanager moet uitvoeren en de noodzakelijke [reactietokens](https://docs.adobe.com/content/help/en/target/using/administer/response-tokens.html) in het Doel UI aanzetten.
 
 ![](assets/summary-target2.jpg)
 
 ## Audit uitvoeren in Auditor {#section-82bc57440406461ebf27a16855b71655}
 
-U kunt Adobe Auditor gebruiken om een reeks controles op uw pagina in werking te stellen. Als u Auditor wilt uitvoeren, klikt u **[!UICONTROL Auditor]** in het bovenste menu en vervolgens op **[!UICONTROL Audit Page Now]**. Klik op Adobe Auditor om deze te openen **[!UICONTROL Run Multi-Page Audit Now]**.
+U kunt Adobe Auditor gebruiken om een reeks controles op uw pagina in werking te stellen. Als u Auditor wilt uitvoeren, klikt u **[!UICONTROL Auditor]** in het bovenste menu en vervolgens op **[!UICONTROL Audit Page Now]**. Klik op Adobe Auditor openen **[!UICONTROL Run Multi-Page Audit Now]**.
 
 ## Informatie die wordt weergegeven in Foutopsporing {#section-88a95ba53dca43d9b96a585e75e5f5cf}
 
@@ -78,18 +81,18 @@ Debugger toont de volgende informatie voor elke oplossing:
   </tr> 
   <tr> 
    <td colname="col1"> <p>Modules </p> </td> 
-   <td colname="col2"> <p>De modules die door Adobe Analytics zijn geladen </p> </td> 
+   <td colname="col2"> <p>De door Adobe Analytics geladen modules </p> </td> 
   </tr> 
  </tbody> 
 </table>
 
-**Auditiebeheer**
+**Audience Manager**
 
 <table id="table_784AEABADBDA4D14BB9A7A9CB9EF07C3"> 
  <tbody> 
   <tr> 
    <td colname="col1"> <p>Partner </p> </td> 
-   <td colname="col2"> <p>De <a href="https://docs.adobe.com/content/help/en/audience-manager/user-guide/dil-api/dil-instance-methods.html#getpartner" format="html" scope="external"> partnernaam</a> voor de instantie DIL </p> </td> 
+   <td colname="col2"> <p>De <a href="https://docs.adobe.com/content/help/en/audience-manager/user-guide/dil-api/dil-instance-methods.html#getpartner" format="html" scope="external"> partnernaam</a> voor de instantie van de DIL </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Versie </p> </td> 
@@ -97,7 +100,7 @@ Debugger toont de volgende informatie voor elke oplossing:
   </tr> 
   <tr> 
    <td colname="col1"> <p>UUID </p> </td> 
-   <td colname="col2"> <p>De <a href="https://docs.adobe.com/content/help/en/audience-manager/user-guide/reference/ids-in-aam.html" format="html" scope="external"> unieke gebruikersnaam</a> die aan het DIL-exemplaar is gekoppeld </p> </td> 
+   <td colname="col2"> <p>De <a href="https://docs.adobe.com/content/help/en/audience-manager/user-guide/reference/ids-in-aam.html" format="html" scope="external"> unieke gebruikersnaam</a> die aan het exemplaar DIL is gekoppeld </p> </td> 
   </tr> 
  </tbody> 
 </table>
@@ -162,7 +165,7 @@ Debugger toont de volgende informatie voor elke oplossing:
  <tbody> 
   <tr> 
    <td colname="col1"> <p>Experience Cloud Org ID </p> </td> 
-   <td colname="col2"> <p>Je <a href="https://docs.adobe.com/content/help/en/id-service/using/home.html" format="https" scope="external"> organisatie-id</a> </p> </td> 
+   <td colname="col2"> <p>Je <a href="https://docs.adobe.com/content/help/nl-NL/id-service/using/home.html" format="https" scope="external"> organisatie-id</a> </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Versie </p> </td> 
@@ -171,13 +174,13 @@ Debugger toont de volgende informatie voor elke oplossing:
  </tbody> 
 </table>
 
-**Adobe-doel**
+**Adobe Target**
 
 <table id="table_D30E0CD20FB04E41862B22655136E043"> 
  <tbody> 
   <tr> 
    <td colname="col1"> <p>Clientcode </p> </td> 
-   <td colname="col2"> <p>Uw doelclientcode <a href="https://docs.adobe.com/content/help/en/target/using/implement-target/client-side/deploy-at-js/implementing-target-without-a-tag-manager.html" format="html" scope="external"></a> </p> </td> 
+   <td colname="col2"> <p>Uw doelclientcode <a href="https://docs.adobe.com/content/help/en/target/using/implement-target/client-side/deploy-at-js/implementing-target-without-a-tag-manager.html" format="html" scope="external"> </a> </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Versie </p> </td> 
