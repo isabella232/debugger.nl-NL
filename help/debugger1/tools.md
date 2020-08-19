@@ -1,17 +1,20 @@
 ---
-description: 'null'
+description: Experience Cloud Debugger-gereedschappen, scherm
 keywords: debugger;experience cloud debugger extension;chrome;extension;tools;dtm;target
-seo-description: 'null'
-seo-title: Gereedschappen
-title: Gereedschappen
+seo-description: Experience Cloud Debugger-gereedschappen, scherm
+seo-title: Tools
+title: Tools
 uuid: ea3fe1ea-e936-4c5a-8a43-b830d1b75038
 translation-type: tm+mt
-source-git-commit: 9bb030d94db1a1e70ecda3d62caf542d7f750317
+source-git-commit: 1d81f427e2c1a68a182fae8262d0e2ad32a87223
+workflow-type: tm+mt
+source-wordcount: '388'
+ht-degree: 1%
 
 ---
 
 
-# Gereedschappen{#tools}
+# Tools{#tools}
 
 Op het scherm van Hulpmiddelen, kunt u diverse hulpmiddelen voor de geïnstalleerde oplossing toelaten of onbruikbaar maken. U kunt bijvoorbeeld de foutopsporingsinstructies voor de console van Target inschakelen of de DTM Staging Library gebruiken. Deze gereedschappen zijn alleen beschikbaar als Target en DTM op de pagina zijn geïnstalleerd.
 
@@ -66,7 +69,7 @@ U kunt Launch of DTM dynamisch invoegen op elke pagina om iets te testen op een 
   </tr> 
   <tr> 
    <td colname="col1"> <p> Mbox-sporen inschakelen </p> </td> 
-   <td colname="col2"> <p>Dit hulpmiddel voegt gedetailleerde informatie aan de Reacties van het Doel toe, die in het <span class="uicontrol"> Doel&gt;scherm van het Spoor</span> van het Debugger kan worden onderzocht. </p> <p> U moet op een van uw tabbladen voor Chrome zijn aangemeld bij de Experience Cloud om dit gereedschap in te schakelen. </p> </td> 
+   <td colname="col2"> <p>Dit hulpmiddel voegt gedetailleerde informatie aan de Reacties van het Doel toe, die in het <span class="uicontrol"> Doel&gt;scherm van het Spoor</span> van het Debugger kan worden onderzocht. </p> <p> U moet op een van uw tabbladen van Chrome zijn aangemeld bij de Experience Cloud om dit gereedschap in te schakelen. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Doel uitschakelen </p> </td> 
