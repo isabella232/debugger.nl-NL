@@ -1,11 +1,14 @@
 ---
-description: 'null'
+description: Hoe te om Experience Cloud Debugger te vormen
 keywords: debugger;experience cloud debugger extension;chrome;extension;configure
-seo-description: 'null'
+seo-description: Hoe te om Experience Cloud Debugger te vormen
 seo-title: Experience Cloud Debugger configureren
 title: Experience Cloud Debugger configureren
 translation-type: tm+mt
-source-git-commit: 3dc1876c0516b7a81f68a207c6a1651bc95b17ab
+source-git-commit: 1d81f427e2c1a68a182fae8262d0e2ad32a87223
+workflow-type: tm+mt
+source-wordcount: '167'
+ht-degree: 0%
 
 ---
 
@@ -14,7 +17,7 @@ source-git-commit: 3dc1876c0516b7a81f68a207c6a1651bc95b17ab
 
 >[!IMPORTANT]
 >
->Adobe Experience Cloud Debugger 2.0 is momenteel in bèta. De documentatie en de functionaliteit kunnen worden gewijzigd.
+>Adobe Experience Cloud Cloud Debugger 2.0 is momenteel in bèta. De documentatie en de functionaliteit kunnen worden gewijzigd.
 
 U kunt bepaalde aspecten van vormen hoe Debugger kijkt en werkt.
 
@@ -22,7 +25,7 @@ U kunt bepaalde aspecten van vormen hoe Debugger kijkt en werkt.
 
 ## Licht of donker
 
-Nadat Foutopsporing wordt geopend, kunt u de gewenste weergave selecteren door naar ****de **Donkere modus**(standaard) of de **Lichtmodus**te gaan.
+Nadat Foutopsporing wordt geopend, kunt u de gewenste weergave selecteren door naar ****de** Donkere modus **(standaard) of de** Lichtmodus **te gaan.
 
 ## Herstellen
 
