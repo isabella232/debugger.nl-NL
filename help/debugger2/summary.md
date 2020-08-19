@@ -1,14 +1,14 @@
 ---
-description: 'null'
+description: Samenvattingsscherm Experience Cloud Debugger
 keywords: debugger;experience cloud debugger extension;chrome;extension;summary;clear;requests;summary screen;solution;information;analytics;target;dtm;audience manager;launch;id service
-seo-description: 'null'
+seo-description: Samenvattingsscherm Experience Cloud Debugger
 seo-title: Samenvattingsscherm
 title: Samenvattingsscherm
 uuid: 46b17eaa-b611-43cf-8c6a-67b2e9b9d940
 translation-type: tm+mt
-source-git-commit: f35d87473f9e1e26f9a27272d7930472cc01c188
+source-git-commit: 1d81f427e2c1a68a182fae8262d0e2ad32a87223
 workflow-type: tm+mt
-source-wordcount: '940'
+source-wordcount: '948'
 ht-degree: 1%
 
 ---
@@ -18,17 +18,17 @@ ht-degree: 1%
 
 >[!IMPORTANT]
 >
->Adobe Experience Cloud Debugger 2.0 is momenteel in bèta. De documentatie en de functionaliteit kunnen worden gewijzigd.
+>Adobe Experience Cloud Cloud Debugger 2.0 is momenteel in bèta. De documentatie en de functionaliteit kunnen worden gewijzigd.
 
-Als u Foutopsporing op Adobe Experience Platform wilt uitvoeren, klikt u op het pictogram op de browserbalk en opent u de pagina die u wilt controleren in de browser.
+Als u de Adobe Experience Platform Debugger wilt uitvoeren, klikt u op het pictogram op de browserbalk en opent u de pagina die u wilt controleren in de browser.
 
 ![](assets/start-icon.jpg)
 
-Het scherm Foutopsporing Adobe Experience Platform Summary wordt weergegeven.
+Het scherm Adobe Experience Platform Debugger Summary wordt weergegeven.
 
 ![](assets/summary.jpg)
 
-Dit scherm bevat informatie over elke Adobe Experience Cloud-oplossing. De getoonde informatie varieert per oplossing, maar omvat typisch informatie met inbegrip van de oplossingsbibliotheek en versie (bijvoorbeeld, &quot;AppMeasurement v2.9&quot;) en rekeningsherkenningstekens (zoals Analytics rapportsuite ID, de de cliëntcode van Target, de identiteitskaart van de partner van de Audience Manager, etc.)
+Dit scherm bevat informatie over elke Adobe Experience Cloud-oplossing. De getoonde informatie varieert per oplossing, maar omvat typisch informatie met inbegrip van de oplossingsbibliotheek en versie (bijvoorbeeld, &quot;AppMeasurement v2.9&quot;) en rekeningsherkenningstekens (zoals de het rapportsuite identiteitskaart van de Analyse, de cliëntcode van het Doel, identiteitskaart van de partner van de Audience Manager, etc.)
 
 ## Informatie die wordt weergegeven in Foutopsporing
 
@@ -52,11 +52,11 @@ Debugger toont de volgende informatie voor elke oplossing:
   </tr> 
   <tr> 
    <td colname="col1"> <p>Paginanaam </p> </td> 
-   <td colname="col2"> <p>De variabele <a href="https://experiencecloud.adobe.com/resources/help/en_US/sc/implement/pageName.html" format="html" scope="external"> pageName</a> die naar Analytics is verzonden en die een gebruikersvriendelijke naam van de site bevat. </p> </td> 
+   <td colname="col2"> <p>De variabele <a href="https://experiencecloud.adobe.com/resources/help/en_US/sc/implement/pageName.html" format="html" scope="external"> pageName</a> die naar Analytics wordt verzonden die een gebruikersvriendelijke naam van de site bevat. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Modules </p> </td> 
-   <td colname="col2"> <p>De modules die door Adobe Analytics zijn geladen </p> </td> 
+   <td colname="col2"> <p>De door Adobe Analytics geladen modules </p> </td> 
   </tr> 
  </tbody> 
 </table>
@@ -67,7 +67,7 @@ Debugger toont de volgende informatie voor elke oplossing:
  <tbody> 
   <tr> 
    <td colname="col1"> <p>Partner </p> </td> 
-   <td colname="col2"> <p>De <a href="https://experiencecloud.adobe.com/resources/help/en_US/aam/r_dil_get_partner.html" format="html" scope="external"> partnernaam</a> voor de instantie DIL </p> </td> 
+   <td colname="col2"> <p>De <a href="https://experiencecloud.adobe.com/resources/help/en_US/aam/r_dil_get_partner.html" format="html" scope="external"> partnernaam</a> voor de instantie van de DIL </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Versie </p> </td> 
@@ -75,7 +75,7 @@ Debugger toont de volgende informatie voor elke oplossing:
   </tr> 
   <tr> 
    <td colname="col1"> <p>UUID </p> </td> 
-   <td colname="col2"> <p>De <a href="https://experiencecloud.adobe.com/resources/help/en_US/aam/ids-in-aam.html" format="html" scope="external"> unieke gebruikersnaam</a> die aan het DIL-exemplaar is gekoppeld </p> </td> 
+   <td colname="col2"> <p>De <a href="https://experiencecloud.adobe.com/resources/help/en_US/aam/ids-in-aam.html" format="html" scope="external"> unieke gebruikersnaam</a> die aan het exemplaar DIL is gekoppeld </p> </td> 
   </tr> 
  </tbody> 
 </table>
@@ -125,11 +125,11 @@ Debugger toont de volgende informatie voor elke oplossing:
   </tr> 
   <tr> 
    <td colname="col1"> <p>Edge-domein </p> </td> 
-   <td colname="col2"> <p>Het domein dat de uitbreiding van het Adobe Experience Platform verzendt en gegevens ontvangt van </p> </td> 
+   <td colname="col2"> <p>Het domein dat de extensie Adobe Experience Platform verzendt en gegevens ontvangt van </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>IMS Organisatie-id </p> </td> 
-   <td colname="col2"> <p>De organisatie waarnaar u de gegevens wilt verzenden bij Adobe, zoals opgegeven in de extensie </p> </td> 
+   <td colname="col2"> <p>De organisatie waarnaar u de gegevens wilt verzenden die bij Adobe worden verzonden, zoals opgegeven in de extensie </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Aanmelding ingeschakeld </p> </td> 
@@ -159,7 +159,7 @@ Debugger toont de volgende informatie voor elke oplossing:
  <tbody> 
   <tr> 
    <td colname="col1"> <p>Clientcode </p> </td> 
-   <td colname="col2"> <p>Uw Target- <a href="https://docs.adobe.com/content/help/en/target/using/implement-target/client-side/deploy-at-js/implementing-target-without-a-tag-manager.html" format="html" scope="external"> clientcode </a> </p> </td> 
+   <td colname="col2"> <p>Uw doelclientcode <a href="https://docs.adobe.com/content/help/en/target/using/implement-target/client-side/deploy-at-js/implementing-target-without-a-tag-manager.html" format="html" scope="external"> </a> </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Versie </p> </td> 
@@ -167,7 +167,7 @@ Debugger toont de volgende informatie voor elke oplossing:
   </tr> 
   <tr> 
    <td colname="col1"> <p>Algemene aanvraagnaam </p> </td> 
-   <td colname="col2"> <p>Het<a href="https://docs.adobe.com/help/en/target/using/implement-target/client-side/mbox-implement/global-mbox/understanding-global-mbox.html" format="html" scope="external"> globale mbox</a> verwijst naar de enige servervraag die boven aan elke Web-pagina in uw implementatie van Target wordt gemaakt </p> </td> 
+   <td colname="col2"> <p>Het<a href="https://docs.adobe.com/help/en/target/using/implement-target/client-side/mbox-implement/global-mbox/understanding-global-mbox.html" format="html" scope="external"> globale mbox</a> verwijst naar de enige servervraag die bij de bovenkant van elke Web-pagina in uw implementatie van het Doel wordt gemaakt </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Gebeurtenis bij laden van pagina </p> </td> 
@@ -175,31 +175,31 @@ Debugger toont de volgende informatie voor elke oplossing:
   </tr> 
   <tr> 
    <td colname="col1"> <p>Naam aanvraag </p> </td> 
-   <td colname="col2"> <p>De naam van een aanvraag op een <a href="https://docs.adobe.com/content/help/en/target/using/implement-target/client-side/mbox-implement/global-mbox/understanding-global-mbox.html" format="html" scope="external"> locatie</a> op de pagina. Deze optie is alleen beschikbaar zonder verificatie als u de gebeurtenislistener voor foutopsporing in uw code- of tagbeheer implementeert en de benodigde <a href="https://docs.adobe.com/content/help/en/target/using/administer/response-tokens.html" format="html" scope="external"> reactietokens</a> inschakelt in de gebruikersinterface van Target. </p> </td> 
+   <td colname="col2"> <p>De naam van een aanvraag op een <a href="https://docs.adobe.com/content/help/en/target/using/implement-target/client-side/mbox-implement/global-mbox/understanding-global-mbox.html" format="html" scope="external"> locatie</a> op de pagina. Beschikbaar zonder authentificatie slechts als u de het Zuiveren gebeurtenisluisteraar in uw code of markeringsmanager implementeert en de noodzakelijke <a href="https://docs.adobe.com/content/help/en/target/using/administer/response-tokens.html" format="html" scope="external"> reactietokens</a> in het Doel UI aanzet. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Naam activiteit </p> </td> 
-   <td colname="col2"> <p>De naam van de Target- <a href="https://docs.adobe.com/content/help/en/target/using/activities/activities.html" format="html" scope="external"> campagne of -activiteit</a>. Deze optie is alleen beschikbaar zonder verificatie als u de gebeurtenislistener voor foutopsporing in uw code- of tagbeheer implementeert en de benodigde <a href="https://docs.adobe.com/content/help/en/target/using/administer/response-tokens.html" format="html" scope="external"> reactietokens</a> inschakelt in de gebruikersinterface van Target. </p> </td> 
+   <td colname="col2"> <p>De naam van de doelcampagne of -activiteit <a href="https://docs.adobe.com/content/help/en/target/using/activities/activities.html" format="html" scope="external"></a>. Beschikbaar zonder authentificatie slechts als u de het Zuiveren gebeurtenisluisteraar in uw code of markeringsmanager implementeert en de noodzakelijke <a href="https://docs.adobe.com/content/help/en/target/using/administer/response-tokens.html" format="html" scope="external"> reactietokens</a> in het Doel UI aanzet. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Activiteits-id </p> </td> 
-   <td colname="col2"> <p>De id van de Target-activiteit. Deze optie is alleen beschikbaar zonder verificatie als u de gebeurtenislistener voor foutopsporing in uw code- of tagbeheer implementeert en de benodigde <a href="https://docs.adobe.com/content/help/en/target/using/administer/response-tokens.html" format="html" scope="external"> reactietokens</a> inschakelt in de gebruikersinterface van Target. </p> </td> 
+   <td colname="col2"> <p>De id van de doelactiviteit. Beschikbaar zonder authentificatie slechts als u de het Zuiveren gebeurtenisluisteraar in uw code of markeringsmanager implementeert en de noodzakelijke <a href="https://docs.adobe.com/content/help/en/target/using/administer/response-tokens.html" format="html" scope="external"> reactietokens</a> in het Doel UI aanzet. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Naam van ervaring </p> </td> 
-   <td colname="col2"> <p>De naam van de Target- <a href="https://docs.adobe.com/content/help/en/target/using/experiences/experiences.html" format="html" scope="external"> ervaring</a>. Deze optie is alleen beschikbaar zonder verificatie als u de gebeurtenislistener voor foutopsporing in uw code- of tagbeheer implementeert en de benodigde <a href="https://docs.adobe.com/content/help/en/target/using/administer/response-tokens.html" format="html" scope="external"> reactietokens</a> inschakelt in de gebruikersinterface van Target. </p> </td> 
+   <td colname="col2"> <p>De naam van de <a href="https://docs.adobe.com/content/help/en/target/using/experiences/experiences.html" format="html" scope="external"> ervaring</a>van het Doel. Beschikbaar zonder authentificatie slechts als u de het Zuiveren gebeurtenisluisteraar in uw code of markeringsmanager implementeert en de noodzakelijke <a href="https://docs.adobe.com/content/help/en/target/using/administer/response-tokens.html" format="html" scope="external"> reactietokens</a> in het Doel UI aanzet. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Ervaring-id </p> </td> 
-   <td colname="col2"> <p>De id van de Target-ervaring. Deze optie is alleen beschikbaar zonder verificatie als u de gebeurtenislistener voor foutopsporing in uw code- of tagbeheer implementeert en de benodigde <a href="https://docs.adobe.com/content/help/en/target/using/administer/response-tokens.html" format="html" scope="external"> reactietokens</a> inschakelt in de gebruikersinterface van Target. </p> </td> 
+   <td colname="col2"> <p>De id van de doelervaring. Beschikbaar zonder authentificatie slechts als u de het Zuiveren gebeurtenisluisteraar in uw code of markeringsmanager implementeert en de noodzakelijke <a href="https://docs.adobe.com/content/help/en/target/using/administer/response-tokens.html" format="html" scope="external"> reactietokens</a> in het Doel UI aanzet. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Naam voorstel</p> </td> 
-   <td colname="col2"> <p>De naam van de Target- <a href="https://docs.adobe.com/content/help/en/target/using/experiences/offers/manage-content.html" format="html" scope="external"> aanbieding</a>. Deze optie is alleen beschikbaar zonder verificatie als u de gebeurtenislistener voor foutopsporing in uw code- of tagbeheer implementeert en de benodigde <a href="https://docs.adobe.com/content/help/en/target/using/administer/response-tokens.html" format="html" scope="external"> reactietokens</a> inschakelt in de gebruikersinterface van Target. </p> </td> 
+   <td colname="col2"> <p>De naam van de <a href="https://docs.adobe.com/content/help/en/target/using/experiences/offers/manage-content.html" format="html" scope="external"> aanbieding</a>van het Doel. Beschikbaar zonder authentificatie slechts als u de het Zuiveren gebeurtenisluisteraar in uw code of markeringsmanager implementeert en de noodzakelijke <a href="https://docs.adobe.com/content/help/en/target/using/administer/response-tokens.html" format="html" scope="external"> reactietokens</a> in het Doel UI aanzet. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Aanbieding-id </p> </td> 
-   <td colname="col2"> <p>De ID van het Target-voorstel. Deze optie is alleen beschikbaar zonder verificatie als u de gebeurtenislistener voor foutopsporing in uw code- of tagbeheer implementeert en de benodigde <a href="https://docs.adobe.com/content/help/en/target/using/administer/response-tokens.html" format="html" scope="external"> reactietokens</a> inschakelt in de gebruikersinterface van Target. </p> </td> 
+   <td colname="col2"> <p>De id van de Target-aanbieding. Beschikbaar zonder authentificatie slechts als u de het Zuiveren gebeurtenisluisteraar in uw code of markeringsmanager implementeert en de noodzakelijke <a href="https://docs.adobe.com/content/help/en/target/using/administer/response-tokens.html" format="html" scope="external"> reactietokens</a> in het Doel UI aanzet. </p> </td> 
   </tr> 
  </tbody> 
 </table>
