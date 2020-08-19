@@ -1,11 +1,14 @@
 ---
-description: 'null'
+description: Experience Cloud Debugger Events Screen
 keywords: debugger;experience cloud debugger extension;chrome;extension;events;dtm;target
-seo-description: 'null'
+seo-description: Experience Cloud Debugger Events Screen
 seo-title: Gebeurtenissen
 title: Gebeurtenissen
 translation-type: tm+mt
-source-git-commit: 3dc1876c0516b7a81f68a207c6a1651bc95b17ab
+source-git-commit: 1d81f427e2c1a68a182fae8262d0e2ad32a87223
+workflow-type: tm+mt
+source-wordcount: '172'
+ht-degree: 2%
 
 ---
 
@@ -14,7 +17,7 @@ source-git-commit: 3dc1876c0516b7a81f68a207c6a1651bc95b17ab
 
 >[!IMPORTANT]
 >
->Adobe Experience Cloud Debugger 2.0 is momenteel in bèta. De documentatie en de functionaliteit kunnen worden gewijzigd.
+>Adobe Experience Cloud Cloud Debugger 2.0 is momenteel in bèta. De documentatie en de functionaliteit kunnen worden gewijzigd.
 
 Het scherm Gebeurtenissen geeft een grafische weergave van de gebeurtenissen die plaatsvinden en die op een tijdlijn worden weergegeven.
 
