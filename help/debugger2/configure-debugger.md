@@ -5,9 +5,9 @@ seo-description: Hoe te om Experience Cloud Debugger te vormen
 seo-title: Experience Cloud Debugger configureren
 title: Experience Cloud Debugger configureren
 translation-type: tm+mt
-source-git-commit: 1d81f427e2c1a68a182fae8262d0e2ad32a87223
+source-git-commit: 7d6f4446560e9d0fb353f60139cea26e61e19f99
 workflow-type: tm+mt
-source-wordcount: '167'
+source-wordcount: '161'
 ht-degree: 0%
 
 ---
@@ -25,11 +25,11 @@ U kunt bepaalde aspecten van vormen hoe Debugger kijkt en werkt.
 
 ## Licht of donker
 
-Nadat Foutopsporing wordt geopend, kunt u de gewenste weergave selecteren door naar ****de** Donkere modus **(standaard) of de** Lichtmodus **te gaan.
+Nadat Foutopsporing wordt geopend, kunt u de gewenste weergave selecteren door naar **[!UICONTROL Settings]** de **Donkere modus** (standaard) of de **Lichtmodus** te gaan.
 
 ## Herstellen
 
-Klik **[!UI CONTROL terugstellen alle Gegevens en Montages]** om alle gegevens te ontruimen en aan de standaardmontages terug te keren.
+Klik **[!UICONTROL Reset all Data and Settings]** om alle gegevens te wissen en terug te keren naar de standaardinstellingen.
 
 ## Foutopsporing op één pagina vergrendelen
 
