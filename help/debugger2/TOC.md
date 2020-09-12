@@ -3,10 +3,11 @@ cloud: experience-cloud
 product: experience cloud
 sub-product: Ervaring cloud debugger 2.0
 audience: end-user
-user-guide-title: Help bij Experience Cloud Debugger 2.0
+user-guide-title: Experience Cloud Debugger 2.0 Help
+breadcrumb-title: Debugger 2.0 Guide
 index: true
 translation-type: tm+mt
-source-git-commit: ed288779f14c817487da751b519b1f1c7707691b
+source-git-commit: dc7588274f4917ee8c7c35653f9a177fdd9f07f2
 workflow-type: tm+mt
 source-wordcount: '31'
 ht-degree: 12%
@@ -14,9 +15,9 @@ ht-degree: 12%
 ---
 
 
-# Help bij Experience Cloud Debugger 2.0 {#using-v2}
+# Experience Cloud Debugger 2.0 Help {#using-v2}
 
-+ [Adobe Experience Cloud Debugger Extension](experience-cloud-debugger.md)
++ [Adobe Experience Cloud Debugger-extensie](experience-cloud-debugger.md)
 + [Release-opmerkingen](release-notes.md)
 + [Experience Cloud Debugger installeren](install-debugger.md)
 + [Foutopsporing configureren](configure-debugger.md)
