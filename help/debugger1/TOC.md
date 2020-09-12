@@ -1,22 +1,26 @@
 ---
 cloud: experience-cloud
 product: experience cloud
-sub-product: experience cloud debugger
+sub-product: ervaren cloud debugger
 audience: end-user
 user-guide-title: Experience Cloud Debugger Help
+breadcrumb-title: Debugger Guide
 translation-type: tm+mt
-source-git-commit: d7a54ea531ac09ea6bee356e47a1da835b3880e8
+source-git-commit: dc7588274f4917ee8c7c35653f9a177fdd9f07f2
+workflow-type: tm+mt
+source-wordcount: '30'
+ht-degree: 13%
 
 ---
 
 
-# Help bij Foutopsporing in de cloud {#using}
+# Experience Cloud Debugger Help {#using}
 
-+ [Adobe Experience Cloud Debugger Extension](experience-cloud-debugger.md)
-+ [Opmerkingen bij de release](release-notes.md)
++ [Adobe Experience Cloud Debugger-extensie](experience-cloud-debugger.md)
++ [Release-opmerkingen](release-notes.md)
 + [Experience Cloud Debugger installeren](install-debugger.md)
 + [Samenvattingsscherm](run-debugger.md)
 + [Netwerkinformatie](network.md)
-+ [Gereedschappen](tools.md)
++ [Tools](tools.md)
 + [Logboeken](logs.md)
 + [Tabs Oplossing](solutions.md)
