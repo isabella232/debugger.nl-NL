@@ -1,13 +1,13 @@
 ---
-description: Hoe te om Experience Cloud Debugger te vormen
-keywords: debugger;experience cloud debugger extension;chrome;extension;configure
-seo-description: Hoe te om Experience Cloud Debugger te vormen
-seo-title: Experience Cloud Debugger configureren
-title: Experience Cloud Debugger configureren
+description: Hoe te om Foutopsporing van het Experience Platform te vormen
+keywords: debugger;experience platform debugger extension;chrome;extension;configure
+seo-description: Hoe te om Foutopsporing van het Experience Platform te vormen
+seo-title: Foutopsporing Experience Platform configureren
+title: Foutopsporing Experience Platform configureren
 translation-type: tm+mt
-source-git-commit: 7d6f4446560e9d0fb353f60139cea26e61e19f99
+source-git-commit: 53f027d5a5ae56c7a8e812b10a2649a38df3b31d
 workflow-type: tm+mt
-source-wordcount: '161'
+source-wordcount: '172'
 ht-degree: 0%
 
 ---
@@ -17,23 +17,23 @@ ht-degree: 0%
 
 >[!IMPORTANT]
 >
->Adobe Experience Cloud Cloud Debugger 2.0 is momenteel in bèta. De documentatie en de functionaliteit kunnen worden gewijzigd.
+>Adobe Experience Platform Debugger bevindt zich momenteel in bèta. De documentatie en de functionaliteit kunnen worden gewijzigd.
 
-U kunt bepaalde aspecten van vormen hoe Debugger kijkt en werkt.
+U kunt bepaalde aspecten vormen van hoe de Foutopsporing van het Experience Platform kijkt en werkt.
 
 ![](assets/settings.jpg)
 
 ## Licht of donker
 
-Nadat Foutopsporing wordt geopend, kunt u de gewenste weergave selecteren door naar **[!UICONTROL Settings]** de **Donkere modus** (standaard) of de **Lichtmodus** te gaan.
+Nadat Foutopsporing Experience Platform is geopend, kunt u de gewenste weergave selecteren door naar **[!UICONTROL Settings]** de **Donkere modus** (standaard) of de **Lichtmodus** te gaan.
 
 ## Herstellen
 
 Klik **[!UICONTROL Reset all Data and Settings]** om alle gegevens te wissen en terug te keren naar de standaardinstellingen.
 
-## Foutopsporing op één pagina vergrendelen
+## Foutopsporing Experience Platform op één pagina vergrendelen
 
-Terwijl u pagina&#39;s op uw site wijzigt, wordt het venster Foutopsporing bijgewerkt en worden de gegevens voor die pagina weergegeven. De naam van de pagina waarmee u verbinding hebt, wordt onder in het scherm weergegeven. Als u Foutopsporing op één pagina vergrendeld wilt houden, klikt u **[!UICONTROL Lock]** in de rechteronderhoek van het venster Foutopsporing.
+Als u pagina&#39;s op uw site wijzigt, wordt het venster Foutopsporing Experience Platform bijgewerkt en wordt de informatie voor die pagina weergegeven. De naam van de pagina waarmee u verbinding hebt, wordt onder in het scherm weergegeven. Als u foutopsporing van Experience Platform op één pagina vergrendeld wilt houden, klikt u **[!UICONTROL Lock]** in de rechterbenedenhoek van het venster Foutopsporing van Experience Platform.
 
 ![](assets/lock.jpg)
 
