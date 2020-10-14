@@ -1,14 +1,14 @@
 ---
-description: Opmerkingen bij de release Experience Cloud Debugger
-keywords: debugger;experience cloud debugger extension;chrome;extension;release notes
-seo-description: Opmerkingen bij de release Experience Cloud Debugger
+description: Opmerkingen bij de release Experience Platform Foutopsporing
+keywords: debugger;experience Platform Debugger extension;chrome;extension;release notes
+seo-description: Opmerkingen bij de release Experience Platform Foutopsporing
 seo-title: Release-opmerkingen
 title: Release-opmerkingen
 uuid: 47a5d6f3-c074-4ad5-ad4b-e6030496689b
 translation-type: tm+mt
-source-git-commit: 1d81f427e2c1a68a182fae8262d0e2ad32a87223
+source-git-commit: 53f027d5a5ae56c7a8e812b10a2649a38df3b31d
 workflow-type: tm+mt
-source-wordcount: '36'
+source-wordcount: '35'
 ht-degree: 22%
 
 ---
@@ -20,4 +20,4 @@ ht-degree: 22%
 
 >[!IMPORTANT]
 >
->Adobe Experience Cloud Cloud Debugger 2.0 is momenteel in bèta. De documentatie en de functionaliteit kunnen worden gewijzigd.
+>Adobe Experience Platform Debugger bevindt zich momenteel in bèta. De documentatie en de functionaliteit kunnen worden gewijzigd.
