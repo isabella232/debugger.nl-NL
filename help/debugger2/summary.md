@@ -1,14 +1,14 @@
 ---
-description: Samenvattingsscherm Experience Cloud Debugger
-keywords: debugger;experience cloud debugger extension;chrome;extension;summary;clear;requests;summary screen;solution;information;analytics;target;dtm;audience manager;launch;id service
-seo-description: Samenvattingsscherm Experience Cloud Debugger
+description: Samenvattingsscherm Foutopsporing Experience Platform
+keywords: debugger;experience Platform Debugger extension;chrome;extension;summary;clear;requests;summary screen;solution;information;analytics;target;dtm;audience manager;launch;id service
+seo-description: Samenvattingsscherm Foutopsporing Experience Platform
 seo-title: Samenvattingsscherm
 title: Samenvattingsscherm
 uuid: 46b17eaa-b611-43cf-8c6a-67b2e9b9d940
 translation-type: tm+mt
-source-git-commit: 1d81f427e2c1a68a182fae8262d0e2ad32a87223
+source-git-commit: 53f027d5a5ae56c7a8e812b10a2649a38df3b31d
 workflow-type: tm+mt
-source-wordcount: '948'
+source-wordcount: '949'
 ht-degree: 1%
 
 ---
@@ -18,7 +18,7 @@ ht-degree: 1%
 
 >[!IMPORTANT]
 >
->Adobe Experience Cloud Cloud Debugger 2.0 is momenteel in bèta. De documentatie en de functionaliteit kunnen worden gewijzigd.
+>Adobe Experience Platform Debugger bevindt zich momenteel in bèta. De documentatie en de functionaliteit kunnen worden gewijzigd.
 
 Als u de Adobe Experience Platform Debugger wilt uitvoeren, klikt u op het pictogram op de browserbalk en opent u de pagina die u wilt controleren in de browser.
 
@@ -30,9 +30,9 @@ Het scherm Adobe Experience Platform Debugger Summary wordt weergegeven.
 
 Dit scherm bevat informatie over elke Adobe Experience Cloud-oplossing. De getoonde informatie varieert per oplossing, maar omvat typisch informatie met inbegrip van de oplossingsbibliotheek en versie (bijvoorbeeld, &quot;AppMeasurement v2.9&quot;) en rekeningsherkenningstekens (zoals de het rapportsuite identiteitskaart van de Analyse, de cliëntcode van het Doel, identiteitskaart van de partner van de Audience Manager, etc.)
 
-## Informatie die wordt weergegeven in Foutopsporing
+## Informatie die wordt weergegeven in Foutopsporing Experience Platform
 
-Debugger toont de volgende informatie voor elke oplossing:
+Foutopsporing van het Experience Platform toont de volgende informatie voor elke oplossing:
 
 **Adobe Analytics**
 
