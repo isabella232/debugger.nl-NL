@@ -1,13 +1,13 @@
 ---
-description: Experience Cloud Debugger Events Screen
-keywords: debugger;experience cloud debugger extension;chrome;extension;events;dtm;target
-seo-description: Experience Cloud Debugger Events Screen
+description: Gebeurtenisscherm Foutopsporing Experience Platform
+keywords: debugger;experience platform debugger extension;chrome;extension;events;dtm;target
+seo-description: Gebeurtenisscherm Foutopsporing Experience Platform
 seo-title: Gebeurtenissen
 title: Gebeurtenissen
 translation-type: tm+mt
-source-git-commit: 1d81f427e2c1a68a182fae8262d0e2ad32a87223
+source-git-commit: 53f027d5a5ae56c7a8e812b10a2649a38df3b31d
 workflow-type: tm+mt
-source-wordcount: '172'
+source-wordcount: '169'
 ht-degree: 2%
 
 ---
@@ -17,13 +17,13 @@ ht-degree: 2%
 
 >[!IMPORTANT]
 >
->Adobe Experience Cloud Cloud Debugger 2.0 is momenteel in bèta. De documentatie en de functionaliteit kunnen worden gewijzigd.
+>Adobe Experience Platform Debugger bevindt zich momenteel in bèta. De documentatie en de functionaliteit kunnen worden gewijzigd.
 
 Het scherm Gebeurtenissen geeft een grafische weergave van de gebeurtenissen die plaatsvinden en die op een tijdlijn worden weergegeven.
 
 ![](assets/events.jpg)
 
-Voor elke gebeurtenis verschijnt er een pictogram voor de toepasselijke Experience Cloud-oplossing op de tijdlijn. De pictogrammen tonen ook veranderingen in de gegevenslaag (als toegelaten). Houd de muisaanwijzer boven een pictogram voor een overzicht van de gebeurtenis. Klik op de gebeurtenis voor meer informatie. U kunt meerdere gebeurtenissen weergeven door Shift of Control ingedrukt te houden en te klikken.
+Voor elke gebeurtenis verschijnt er een pictogram voor de toepasselijke oplossing op de tijdlijn. De pictogrammen tonen ook veranderingen in de gegevenslaag (als toegelaten). Houd de muisaanwijzer boven een pictogram voor een overzicht van de gebeurtenis. Klik op de gebeurtenis voor meer informatie. U kunt meerdere gebeurtenissen weergeven door Shift of Control ingedrukt te houden en te klikken.
 
 ![](assets/events-details.jpg)
 
