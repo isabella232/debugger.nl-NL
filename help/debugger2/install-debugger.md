@@ -1,14 +1,14 @@
 ---
-description: Hoe te om Experience Cloud Debugger te installeren
-keywords: debugger;experience cloud debugger extension;chrome;extension;install
-seo-description: Hoe te om Experience Cloud Debugger te installeren
-seo-title: Experience Cloud Debugger installeren
-title: Experience Cloud Debugger installeren
+description: Foutopsporing in Experience Platform installeren
+keywords: debugger;experience Platform Debugger extension;chrome;extension;install
+seo-description: Foutopsporing in Experience Platform installeren
+seo-title: Foutopsporing Experience Platform installeren
+title: Foutopsporing Experience Platform installeren
 uuid: 16d77c6d-11e7-4dfd-a846-3dace9f4070f
 translation-type: tm+mt
-source-git-commit: 1d81f427e2c1a68a182fae8262d0e2ad32a87223
+source-git-commit: 53f027d5a5ae56c7a8e812b10a2649a38df3b31d
 workflow-type: tm+mt
-source-wordcount: '98'
+source-wordcount: '99'
 ht-degree: 0%
 
 ---
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 >[!IMPORTANT]
 >
->Adobe Experience Cloud Cloud Debugger 2.0 is momenteel in bèta. De documentatie en de functionaliteit kunnen worden gewijzigd.
+>Adobe Experience Platform Debugger bevindt zich momenteel in bèta. De documentatie en de functionaliteit kunnen worden gewijzigd.
 
 Download en installeer de Adobe Experience Platform Debugger.
 
@@ -29,5 +29,5 @@ Nadat u de Chrome-extensie of de Firefox-invoegtoepassing hebt geïnstalleerd, w
 
 ![](assets/start-icon.jpg)
 
-Klik op het pictogram om Foutopsporing te starten.
+Klik op het pictogram om Foutopsporing Experience Platform te starten.
 
