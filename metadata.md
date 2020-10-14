@@ -1,30 +1,33 @@
 ---
-cloud: experience-cloud
-solution-title: Meer informatie en ondersteuning
+cloud: experience-platform
+solution-title: Informatie en ondersteuning
 solution-hub-url: https://helpx.adobe.com/support/experience-cloud/core-services.html
-solution-image: help/assets/experience-cloud-logo-24.png
+solution-image: help/assets/experience-p-logo-24.png
 getting-started-title: Aan de slag
 getting-started-url: https://helpx.adobe.com/experience-cloud-core-services/get-started.html
-tutorials-title: Zelfstudies
+tutorials-title: Tutorials
 tutorials-url: https://helpx.adobe.com/analytics/how-to/adobe-launch-publishing-process.html
-git-repo: https://github.com/AdobeDocs/debugger.en
+git-repo: https://git.corp.adobe.com/AdobeDocs/debugger.nl-NL
 index: true
 translation-type: tm+mt
-source-git-commit: d78218242347d004d2bf9737ba745d12673a06d5
+source-git-commit: 53f027d5a5ae56c7a8e812b10a2649a38df3b31d
+workflow-type: tm+mt
+source-wordcount: '134'
+ht-degree: 83%
 
 ---
 
 
 # Metagegevens voor intern gebruik
 
-Het bestand metadata.md bevat metagegevens op repo-niveau die worden doorgegeven aan de bestanden in de repo in de gebruikershandleiding TOC.md. Als u de inhoud metadata.md voor om het even welke gebruikersgids wilt veranderen, doe dit in om het even welk dossier van TOC.md.
+Het bestand metadata.md bevat metagegevens op niveau van de opslagplaats die worden doorgegeven aan TOC.md-bestanden van de gebruikershandleiding in de opslagplaats. Als u de content van metadata.md voor om het even welke gebruikershandleiding wilt veranderen, doet u dit in om het even welk TOC.md-bestand.
 
-| metagegevens | wat het doet |
+| metadata | wat het doet |
 |--- |--- |
-| titel oplossing | Gebruikt in artikelkoptekst als koppeling |
-| oplossing-hub-url | Opent helpx-hubpagina |
-| oplossingspictogram | Hiermee wordt het oplossingspictogram weergegeven naast de titel van de oplossing. Nog niet geïmplementeerd |
-| aan de slag-url | Aan de slag met Help-pagina koppelen |
-| zelfstudies-url | Koppeling maken naar videozelfstudies: helpx-zelfstudies of KT-zelfstudies |
-| mini-toc-niveaus | Hiermee bepaalt u het aantal kopniveaus dat wordt weergegeven in de rechterrails. default is 2 |
-| git-repo | Hiermee geeft u de locatie op van het hoofdrepo voor intern gebruik |
+| solution-title | Gebruikt in artikelkoptekst als koppeling |
+| solution-hub-url | Opent helpx-hubpagina |
+| solution-icon | Hiermee wordt het oplossingspictogram weergegeven naast de titel van de oplossing. Nog niet geïmplementeerd |
+| getting-started-url | Koppeling naar pagina om aan de slag te gaan met helpx |
+| tutorials-url | Koppeling naar videotutorials: helpx-tutorials of KT-tutorials |
+| mini-toc-levels | Hiermee bepaalt u het aantal kopniveaus dat wordt weergegeven in de rechterrail. standaard is dit 2 |
+| git-repo | Hiermee wordt de locatie van de primaire opslagplaats voor intern gebruik opgegeven |
