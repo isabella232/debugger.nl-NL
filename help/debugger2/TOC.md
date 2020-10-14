@@ -1,27 +1,27 @@
 ---
-cloud: experience-cloud
-product: experience cloud
-sub-product: Ervaring cloud debugger 2.0
+cloud: experience-platform
+product: experience platform
+sub-product: 'ervaringsplatformfoutopsporing '
 audience: end-user
-user-guide-title: Experience Cloud Debugger 2.0 Help
-user-guide-description: Examine your web pages for problems with your Experience Platform implementations.
-breadcrumb-title: Debugger 2.0 Guide
+user-guide-title: Help bij Foutopsporing Experience Platform
+user-guide-description: Onderzoek uw Web-pagina's voor problemen met uw Experience Platform implementaties.
+breadcrumb-title: Handleiding Foutopsporing Platform
 index: true
 translation-type: tm+mt
-source-git-commit: 89781a342e467513b244240c171fc5bad040ca35
+source-git-commit: 53f027d5a5ae56c7a8e812b10a2649a38df3b31d
 workflow-type: tm+mt
-source-wordcount: '31'
-ht-degree: 12%
+source-wordcount: '47'
+ht-degree: 8%
 
 ---
 
 
-# Experience Cloud Debugger 2.0 Help {#using-v2}
+# Help bij Foutopsporing Experience Platform {#using-v2}
 
-+ [Adobe Experience Cloud Debugger-extensie](experience-cloud-debugger.md)
++ [Adobe Experience Platform Debugger-extensie](experience-cloud-debugger.md)
 + [Release-opmerkingen](release-notes.md)
-+ [Experience Cloud Debugger installeren](install-debugger.md)
-+ [Foutopsporing configureren](configure-debugger.md)
++ [Foutopsporing Experience Platform installeren](install-debugger.md)
++ [Foutopsporing Experience Platform configureren](configure-debugger.md)
 + [Samenvattingsscherm](summary.md)
 + [Oplossingen](solutions.md)
 + [Logboeken](logs.md)
