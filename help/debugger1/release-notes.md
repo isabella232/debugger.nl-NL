@@ -180,7 +180,7 @@ Versie 0.0.803 omvat geen klant-onder ogen ziet veranderingen.
 ## Bug Fixes {#section-7c0e4cc4b00a428489bed4a0a27c9501}
 
 * Correctie van een probleem waarbij de functie &#39;Klik op cel om weer te geven&#39; niet was bijgewerkt. Dit probleem is nu opgelost.
-* Probleem verholpen waarbij AAM treffers niet werden weergegeven op AAM tabblad
+* Probleem verholpen waarbij AAM treffers niet werden weergegeven op AAM tabblad. Dit probleem is nu opgelost.
 
 ## Versie 0.0.798 14 juni 2018 {#topic-3b2d44277f2f4c0295d82724c34bf467}
 
@@ -215,7 +215,7 @@ Versie 0.0.803 omvat geen klant-onder ogen ziet veranderingen.
    <td colname="col2"> <p> 
      <ul id="ul_D1EB0BE3A01C494983DAAF625562AC62"> 
       <li id="li_2696D26320F54A089D3CC99962EC9670">Verberg oplossingen in de Filter van Oplossingen als geen lijnpunten voor die oplossing in de logboeken worden gevonden </li> 
-      <li id="li_D4586A6AB2AD42BB9F0FA3E7A01382C6">Verberg het filter Niveau als er geen DTM-aanroepen worden gevonden, omdat het alleen van toepassing is op DTM </li> 
+      <li id="li_D4586A6AB2AD42BB9F0FA3E7A01382C6">Verberg de Niveau Filter als er geen DTM-aanroepen worden gevonden, omdat deze alleen van toepassing zijn op DTM </li> 
       <li id="li_E2AF179037DC4C63B960013AB1F9AD6A">Wijzig de pictogrammen in de kolom Niveau zodat ze er niet klikbaar uitzien wanneer er niets gebeurt wanneer u klikt </li> 
       <li id="li_3DB6682D6C9040D99F04C688E208CE1F">Opmaak van "Code tonen" op DTM-regelitems standaardiseren </li> 
      </ul> </p> </td> 
