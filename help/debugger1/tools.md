@@ -6,9 +6,9 @@ seo-title: Tools
 title: Tools
 uuid: ea3fe1ea-e936-4c5a-8a43-b830d1b75038
 translation-type: tm+mt
-source-git-commit: 1d81f427e2c1a68a182fae8262d0e2ad32a87223
+source-git-commit: e5f85bb78ad818d3507ca48eee27bb1e44f4e1a7
 workflow-type: tm+mt
-source-wordcount: '388'
+source-wordcount: '392'
 ht-degree: 1%
 
 ---
@@ -20,7 +20,7 @@ Op het scherm van Hulpmiddelen, kunt u diverse hulpmiddelen voor de geïnstallee
 
 ![](assets/tools.jpg)
 
-U kunt Launch of DTM dynamisch invoegen op elke pagina om iets te testen op een pagina waarop Launch of DTM niet is geïnstalleerd. Klik op het **[!UICONTROL Embed Code]** pictogram, typ de [insluitcode](https://docs.adobe.com/content/help/en/dtm/using/client-side/deployment.html) en klik op **[!UICONTROL Save]**.
+U kunt Adobe Experience Platform Launch of DTM dynamisch op elke pagina invoegen om iets te testen op een pagina waarop het Platform Launch of DTM niet is geïnstalleerd. Klik op het **[!UICONTROL Embed Code]** pictogram, typ de [insluitcode](https://docs.adobe.com/content/help/en/dtm/using/client-side/deployment.html) en klik op **[!UICONTROL Save]**.
 
 ![](assets/tools-embedcode.jpg)
 
