@@ -6,9 +6,9 @@ seo-title: Samenvattingsscherm
 title: Samenvattingsscherm
 uuid: 46b17eaa-b611-43cf-8c6a-67b2e9b9d940
 translation-type: tm+mt
-source-git-commit: 1d81f427e2c1a68a182fae8262d0e2ad32a87223
+source-git-commit: e5f85bb78ad818d3507ca48eee27bb1e44f4e1a7
 workflow-type: tm+mt
-source-wordcount: '1035'
+source-wordcount: '1047'
 ht-degree: 2%
 
 ---
@@ -16,11 +16,11 @@ ht-degree: 2%
 
 # Samenvattingsscherm{#summary-screen}
 
-Als u de Experience Cloud Debugger wilt uitvoeren, klikt u op het extensiepictogram in de extensiebalk en opent u de pagina die u wilt controleren in Chrome.
+Als u Foutopsporing voor Adobe Experience Cloud wilt uitvoeren, klikt u op het extensiepictogram in de extensiebalk en opent u de pagina die u wilt onderzoeken in Chrome.
 
 ![](assets/start-icon.jpg)
 
-Het scherm Adobe Experience Cloud Debugger Summary wordt weergegeven.
+Het scherm Experience Cloud Debugger Summary wordt weergegeven.
 
 ![](assets/summary.jpg)
 
@@ -32,13 +32,13 @@ In de volgende afbeelding wordt bijvoorbeeld informatie over Adobe Target weerge
 
 ![](assets/summary-target2.jpg)
 
-## Audit uitvoeren in Auditor {#section-82bc57440406461ebf27a16855b71655}
+## Een audit uitvoeren in Adobe Experience Platform Auditor {#section-82bc57440406461ebf27a16855b71655}
 
-U kunt Adobe Auditor gebruiken om een reeks controles op uw pagina in werking te stellen. Als u Auditor wilt uitvoeren, klikt u **[!UICONTROL Auditor]** in het bovenste menu en vervolgens op **[!UICONTROL Audit Page Now]**. Klik op Adobe Auditor openen **[!UICONTROL Run Multi-Page Audit Now]**.
+U kunt de Auditor van het Platform gebruiken om een reeks controles op uw pagina in werking te stellen. Om de Auditor van het Platform in werking te stellen, klik **[!UICONTROL Auditor]** in het hoogste menu, dan klik **[!UICONTROL Audit Page Now]**. Klik op Platform Auditor openen **[!UICONTROL Run Multi-Page Audit Now]**.
 
-## Informatie die wordt weergegeven in Foutopsporing {#section-88a95ba53dca43d9b96a585e75e5f5cf}
+## Informatie weergegeven in Experience Cloud Debugger {#section-88a95ba53dca43d9b96a585e75e5f5cf}
 
-Debugger toont de volgende informatie voor elke oplossing:
+Experience Cloud Debugger geeft voor elke oplossing de volgende informatie:
 
 **Pagina-informatie**
 
@@ -105,13 +105,13 @@ Debugger toont de volgende informatie voor elke oplossing:
  </tbody> 
 </table>
 
-**Adobe Launch**
+**Adobe Experience Platform Launch**
 
 <table id="table_E9574975444A407887E26514D1BB1601"> 
  <tbody> 
   <tr> 
    <td colname="col1"> <p>Naam </p> </td> 
-   <td colname="col2"> <p>De naam van de <a href="https://docs.adobe.com/content/help/en/launch/using/reference/admin/companies-and-properties.html" format="https" scope="external"> eigenschap Adobe Launch</a> </p> </td> 
+   <td colname="col2"> <p>De naam van de <a href="https://docs.adobe.com/content/help/en/launch/using/reference/admin/companies-and-properties.html" format="https" scope="external"> eigenschap Platform starten</a> </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Versie </p> </td> 
@@ -119,15 +119,15 @@ Debugger toont de volgende informatie voor elke oplossing:
   </tr> 
   <tr> 
    <td colname="col1"> <p>Bouwdatum </p> </td> 
-   <td colname="col2"> <p>De <a href="https://docs.adobe.com/content/help/en/launch/using/reference/publish/libraries.html" format="https" scope="external"> bouwdatum van de bibliotheek</a> starten </p> </td> 
+   <td colname="col2"> <p>De bouwdatum van de <a href="https://docs.adobe.com/content/help/en/launch/using/reference/publish/libraries.html" format="https" scope="external"> bibliotheek</a> van het Platform </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Omgeving </p> </td> 
-   <td colname="col2"> <p>De <a href="https://docs.adobe.com/content/help/en/launch/using/reference/publish/environments.html" format="https" scope="external"> omgeving</a> die wordt gebruikt door de Launch-bibliotheek </p> </td> 
+   <td colname="col2"> <p>De <a href="https://docs.adobe.com/content/help/en/launch/using/reference/publish/environments.html" format="https" scope="external"> omgeving</a> die wordt gebruikt door de Platform Launch-bibliotheek </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Scriptmap </p> </td> 
-   <td colname="col2"> <p>De map waarin het script Launch is opgeslagen </p> </td> 
+   <td colname="col2"> <p>De map waarin het script voor het starten van het Platform is opgeslagen </p> </td> 
   </tr> 
  </tbody> 
 </table>
@@ -146,7 +146,7 @@ Debugger toont de volgende informatie voor elke oplossing:
   </tr> 
   <tr> 
    <td colname="col1"> <p>Bouwdatum </p> </td> 
-   <td colname="col2"> <p>De <a href="https://docs.adobe.com/content/help/en/dtm/using/library-management.html" format="html" scope="external"> bouwdatum van de bibliotheek</a> starten </p> </td> 
+   <td colname="col2"> <p>De bouwdatum van de <a href="https://docs.adobe.com/content/help/en/dtm/using/library-management.html" format="html" scope="external"> bibliotheek</a> van het Platform </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Omgeving </p> </td> 
