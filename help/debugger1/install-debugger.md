@@ -6,15 +6,15 @@ seo-title: Experience Cloud Debugger installeren
 title: Experience Cloud Debugger installeren
 uuid: 16d77c6d-11e7-4dfd-a846-3dace9f4070f
 translation-type: tm+mt
-source-git-commit: 1d81f427e2c1a68a182fae8262d0e2ad32a87223
+source-git-commit: e5f85bb78ad818d3507ca48eee27bb1e44f4e1a7
 workflow-type: tm+mt
-source-wordcount: '60'
+source-wordcount: '61'
 ht-degree: 0%
 
 ---
 
 
-# Experience Cloud Debugger installeren{#install-experience-cloud-debugger}
+# Install Adobe Experience Cloud Debugger{#install-experience-cloud-debugger}
 
 Download en installeer de Adobe Experience Cloud Debugger-extensie voor Chrome vanaf de [Chrome-extensiepagina](https://chrome.google.com/webstore/detail/adobe-experience-cloud-de/ocdmogmohccmeicdhlhhgepeaijenapj).
 
