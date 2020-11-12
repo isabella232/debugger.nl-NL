@@ -6,9 +6,9 @@ seo-title: Samenvattingsscherm
 title: Samenvattingsscherm
 uuid: 46b17eaa-b611-43cf-8c6a-67b2e9b9d940
 translation-type: tm+mt
-source-git-commit: 53f027d5a5ae56c7a8e812b10a2649a38df3b31d
+source-git-commit: e5f85bb78ad818d3507ca48eee27bb1e44f4e1a7
 workflow-type: tm+mt
-source-wordcount: '949'
+source-wordcount: '957'
 ht-degree: 1%
 
 ---
@@ -20,7 +20,7 @@ ht-degree: 1%
 >
 >Adobe Experience Platform Debugger bevindt zich momenteel in bèta. De documentatie en de functionaliteit kunnen worden gewijzigd.
 
-Als u de Adobe Experience Platform Debugger wilt uitvoeren, klikt u op het pictogram op de browserbalk en opent u de pagina die u wilt controleren in de browser.
+Als u Adobe Experience Platform Debugger wilt uitvoeren, klikt u op het pictogram op de browserbalk en opent u de pagina die u wilt controleren in de browser.
 
 ![](assets/start-icon.jpg)
 
@@ -80,13 +80,13 @@ Foutopsporing van het Experience Platform toont de volgende informatie voor elke
  </tbody> 
 </table>
 
-**Adobe Launch**
+**Adobe Experience Platform Launch**
 
 <table id="table_E9574975444A407887E26514D1BB1601"> 
  <tbody> 
   <tr> 
    <td colname="col1"> <p>Naam </p> </td> 
-   <td colname="col2"> <p>De naam van de <a href="https://docs.adobe.com/content/help/en/launch/using/reference/admin/companies-and-properties.html" format="https" scope="external"> eigenschap Adobe Launch</a> </p> </td> 
+   <td colname="col2"> <p>De naam van de <a href="https://docs.adobe.com/content/help/en/launch/using/reference/admin/companies-and-properties.html" format="https" scope="external"> eigenschap Platform starten</a> </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Versie </p> </td> 
@@ -94,11 +94,11 @@ Foutopsporing van het Experience Platform toont de volgende informatie voor elke
   </tr> 
   <tr> 
    <td colname="col1"> <p>Bouwdatum </p> </td> 
-   <td colname="col2"> <p>De <a href="https://docs.adobe.com/content/help/en/launch/using/reference/publish/libraries.html" format="https" scope="external"> bouwdatum van de bibliotheek</a> starten </p> </td> 
+   <td colname="col2"> <p>De bouwdatum van de <a href="https://docs.adobe.com/content/help/en/launch/using/reference/publish/libraries.html" format="https" scope="external"> bibliotheek</a> van het Platform </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Omgeving </p> </td> 
-   <td colname="col2"> <p>De <a href="https://docs.adobe.com/content/help/en/launch/using/reference/publish/environments.html" format="https" scope="external"> omgeving</a> die wordt gebruikt door de Launch-bibliotheek </p> </td> 
+   <td colname="col2"> <p>De <a href="https://docs.adobe.com/content/help/en/launch/using/reference/publish/environments.html" format="https" scope="external"> omgeving</a> die wordt gebruikt door de Platform Launch-bibliotheek </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Extensies </p> </td> 
@@ -107,13 +107,13 @@ Foutopsporing van het Experience Platform toont de volgende informatie voor elke
  </tbody> 
 </table>
 
-**Adobe Web SDK**
+**Adobe Experience Platform Web SDK**
 
 <table id="table_DC76D63FA6EF4891906B9E1D3E4A8A6C"> 
  <tbody> 
   <tr> 
    <td colname="col1"> <p>Bibliotheekversie </p> </td> 
-   <td colname="col2"> <p>Het aantal van de de <a href="https://docs.adobe.com/content/help/en/launch/using/extensions-ref/adobe-extension/aep-extension/overview.html" format="html" scope="external">bibliotheekversie van SDK van het Web AEB</a> </p> </td> 
+   <td colname="col2"> <p>Het nummer van de Adobe Experience Platform Web SDK- <a href="https://docs.adobe.com/content/help/en/launch/using/extensions-ref/adobe-extension/aep-extension/overview.html" format="html" scope="external">bibliotheekversie</a> </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Naamruimte</p> </td> 
@@ -121,14 +121,14 @@ Foutopsporing van het Experience Platform toont de volgende informatie voor elke
   </tr> 
   <tr> 
    <td colname="col1"> <p>Eigenschap-id </p> </td> 
-   <td colname="col2"> <p>De naam van de eigenschap Launch die is opgegeven in de extensie </p> </td> 
+   <td colname="col2"> <p>De naam van de eigenschap Launch van het Platform die is opgegeven in de extensie </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Edge-domein </p> </td> 
    <td colname="col2"> <p>Het domein dat de extensie Adobe Experience Platform verzendt en gegevens ontvangt van </p> </td> 
   </tr> 
   <tr> 
-   <td colname="col1"> <p>IMS Organisatie-id </p> </td> 
+   <td colname="col1"> <p>IMS-organisatie-id </p> </td> 
    <td colname="col2"> <p>De organisatie waarnaar u de gegevens wilt verzenden die bij Adobe worden verzonden, zoals opgegeven in de extensie </p> </td> 
   </tr> 
   <tr> 
