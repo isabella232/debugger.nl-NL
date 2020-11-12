@@ -6,9 +6,9 @@ seo-title: Logboeken
 title: Logboeken
 uuid: 8ce5fb57-c417-4674-864d-b7c03639a531
 translation-type: tm+mt
-source-git-commit: 53f027d5a5ae56c7a8e812b10a2649a38df3b31d
+source-git-commit: e5f85bb78ad818d3507ca48eee27bb1e44f4e1a7
 workflow-type: tm+mt
-source-wordcount: '152'
+source-wordcount: '157'
 ht-degree: 2%
 
 ---
@@ -20,7 +20,7 @@ ht-degree: 2%
 >
 >Adobe Experience Platform Debugger bevindt zich momenteel in bèta. De documentatie en de functionaliteit kunnen worden gewijzigd.
 
-Het scherm Logs verstrekt informatie specifiek voor DTM, Lancering, en de implementaties van SDK van het Web AEP. Het gereedschap Foutopsporing console voor DTM hoeft niet te zijn ingeschakeld om deze informatie weer te geven. U kunt filteren op oplossingen die zijn geïmplementeerd via de bijbehorende gereedschappen.
+Het Logs-scherm biedt specifieke informatie over DTM-, Adobe Experience Platform Launch- en Adobe Experience Platform Web SDK-implementaties. Het gereedschap Foutopsporing console voor DTM hoeft niet te zijn ingeschakeld om deze informatie weer te geven. U kunt filteren op oplossingen die zijn geïmplementeerd via de bijbehorende gereedschappen.
 
 ![](assets/logs.jpg)
 
