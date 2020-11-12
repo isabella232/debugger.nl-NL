@@ -6,10 +6,10 @@ seo-title: Release-opmerkingen
 title: Release-opmerkingen
 uuid: 47a5d6f3-c074-4ad5-ad4b-e6030496689b
 translation-type: tm+mt
-source-git-commit: 1d81f427e2c1a68a182fae8262d0e2ad32a87223
+source-git-commit: e5f85bb78ad818d3507ca48eee27bb1e44f4e1a7
 workflow-type: tm+mt
-source-wordcount: '699'
-ht-degree: 6%
+source-wordcount: '723'
+ht-degree: 5%
 
 ---
 
@@ -50,12 +50,12 @@ ht-degree: 6%
  </thead>
  <tbody> 
   <tr> 
-   <td colname="col1"> <p>Controles van accountants </p> </td> 
-   <td colname="col2"> <p> Toegevoegde tests <a href="run-debugger.md#section-82bc57440406461ebf27a16855b71655" format="dita" scope="local"> van</a> Auditor aan Foutopsporing </p> </td> 
+   <td colname="col1"> <p>Adobe Experience Platform Auditor-tests </p> </td> 
+   <td colname="col2"> <p> Toegevoegde tests <a href="run-debugger.md#section-82bc57440406461ebf27a16855b71655" format="dita" scope="local"> van de Auditor van de</a> Platform aan Experience Cloud Debugger </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Adobe Audience Manager </p> </td> 
-   <td colname="col2"> <p>Foutopsporing geeft nu AAM reacties weer </p> </td> 
+   <td colname="col2"> <p>Experience Cloud Debugger geeft nu AAM reacties weer </p> </td> 
   </tr> 
  </tbody> 
 </table>
@@ -64,7 +64,7 @@ ht-degree: 6%
 
 * Probleem verholpen waarbij de voettekst inhoud aan de onderkant van de pagina verbergt.
 
-* De voettekst voor foutopsporing is bijgewerkt
+* De voettekst van de Experience Cloud Debugger is bijgewerkt
 * Het probleem waarbij verouderde terminologie voor Target werd gebruikt, is opgelost.
 
 ## Versie 0.0.809 februari 28, 2019 {#topic-6241de45fa9e4a23a95ad4d3a73f7348}
@@ -96,7 +96,7 @@ ht-degree: 6%
 
 * Probleem verholpen in Dynamisch het Lanceren van het Tussenvoegsel waar het gebruikersinterface aan een verschillende inbedcode leek in kaart te brengen wanneer het niet was
 * Probleem verholpen in Launch dynamisch invoegen waarbij een ongeldige URL werd weergegeven. Dit probleem is nu opgelost.
-* Probleem verholpen waarbij Foutopsporing de insluitcodes bleef vervangen, zelfs als het venster Foutopsporing werd gesloten. Dit probleem is nu opgelost.
+* Probleem verholpen waarbij Experience Cloud Debugger de insluitcodes bleef vervangen, zelfs wanneer het venster Experience Cloud Debugger was gesloten. Dit probleem is nu opgelost.
 
 ## Versie 0.0.806 september 2018 {#topic-a41c9d1969ff4d06ac3bb4e7d6b6d18a}
 
@@ -116,7 +116,7 @@ ht-degree: 6%
   </tr> 
   <tr> 
    <td colname="col1"> <p>Starten dynamisch invoegen </p> </td> 
-   <td colname="col2"> <p>Via het tabblad Gereedschappen kunt u op elke pagina de functie Starten dynamisch invoegen om te testen wat zich op een pagina bevindt waarop Starten niet is geïnstalleerd. </p> </td> 
+   <td colname="col2"> <p>Via het tabblad Gereedschappen kunt u Adobe Experience Platform Launch dynamisch invoegen op elke pagina om te testen wat zich op een pagina bevindt waarop het starten van het Platform niet is geïnstalleerd. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Verbeteringen voor doel </p> </td> 
@@ -139,7 +139,7 @@ ht-degree: 6%
 * Probleem verholpen waarbij het tabblad Experience Cloud niet werd bijgewerkt
 
 * Probleem verholpen waarbij Media Optimizer in de rij Oplossing van het tabblad Netwerk werd weergegeven in plaats van de huidige naam &quot;Advertising Cloud&quot;. Dit probleem is nu opgelost.
-* Probleem verholpen waarbij Foutopsporing _satelliet op elke pagina injecteerde.
+* Probleem verholpen waarbij Experience Cloud Debugger _satelliet op elke pagina injecteerde.
 
 ## Versie 0.0.803 10 augustus 2018 {#topic-d2901fb70ce04a5586f6c7a994fce875}
 
@@ -158,8 +158,8 @@ Versie 0.0.803 omvat geen klant-onder ogen ziet veranderingen.
  </thead>
  <tbody> 
   <tr> 
-   <td colname="col1"> <p>Koppeling Auditor op tabblad Extra </p> </td> 
-   <td colname="col2"> <p>Een koppeling van Foutopsporing naar Foutopsporing toegevoegd </p> </td> 
+   <td colname="col1"> <p>Koppeling Auditor Platform op tabblad Extra </p> </td> 
+   <td colname="col2"> <p>Een koppeling van de Experience Cloud Debugger naar de Platform Auditor toegevoegd </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Samengevouwen tabs </p> </td> 
