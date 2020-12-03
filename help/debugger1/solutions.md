@@ -56,7 +56,7 @@ Klik **[!UICONTROL Link Account]**, ga dan de gevraagde informatie in om een rek
 
 Schakel de optie Nabewerkte its ophalen in als u de waarden van Analytics-resultaten wilt zien nadat de verwerkingsregels zijn uitgevoerd. Deze functie werkt alleen als u bent aangemeld bij Adobe Experience Cloud.
 
-Wanneer deze optie wordt toegelaten, wordt een het zuiveren parameter toegevoegd aan uw verzoeken van Analytics. Hits worden nog steeds verwerkt als andere treffers. Foutopsporing van Platform opinieert de API voor foutopsporing van Analytics om waarden op te halen uit de naverwerkingsregels voor alle resultaten die een originele Hit-id hebben. Vervolgens verwerkte treffers hebben een paarse achtergrond en worden weergegeven naast de originele treffer.
+Wanneer deze optie wordt toegelaten, wordt een het zuiveren parameter toegevoegd aan uw verzoeken van Analytics. Hits worden nog steeds verwerkt als andere treffers. Foutopsporing van Platform opinieert de API voor foutopsporing van Analytics om waarden van regels voor naverwerking op te halen voor alle resultaten met een originele kit-id. Vervolgens verwerkte treffers hebben een paarse achtergrond en worden weergegeven naast de originele treffer.
 
 Voor de meeste analytische implementaties is de informatie over de naverwerkingsregels binnen een paar minuten beschikbaar. Analyses voor de implementatie van Target (A4T) duren aanzienlijk langer.
 
