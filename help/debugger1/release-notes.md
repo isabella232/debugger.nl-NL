@@ -1,6 +1,6 @@
 ---
 description: Opmerkingen bij de release voor Experience Cloud Debugger
-keywords: debugger;experience cloud debugger extension;chrome;extension;release notes
+keywords: foutopsporing;ervaring met de foutopsporingsextensie voor de cloud;chroom;extensie;releaseopmerkingen
 seo-description: Opmerkingen bij de release voor Experience Cloud Debugger
 seo-title: Release-opmerkingen
 title: Release-opmerkingen
@@ -8,7 +8,7 @@ uuid: 47a5d6f3-c074-4ad5-ad4b-e6030496689b
 translation-type: tm+mt
 source-git-commit: e5f85bb78ad818d3507ca48eee27bb1e44f4e1a7
 workflow-type: tm+mt
-source-wordcount: '723'
+source-wordcount: '732'
 ht-degree: 5%
 
 ---
@@ -32,7 +32,7 @@ ht-degree: 5%
  <tbody> 
   <tr> 
    <td colname="col1"> <p>Nabewerkingsgegevens </p> </td> 
-   <td colname="col2"> <p> De mogelijkheid om waarden weer te <a href="solutions.md#section-f71dfcc22bb44c86bec328491606a482" format="dita" scope="local"> geven bij treffers voor Analytics nadat de verwerkingsregels zijn uitgevoerd</a>. </p> </td> 
+   <td colname="col2"> <p> De mogelijkheid toegevoegd om de waarden van de <a href="solutions.md#section-f71dfcc22bb44c86bec328491606a482" format="dita" scope="local">-weergave te bekijken bij treffers voor Analytics nadat de verwerkingsregels zijn uitgevoerd.</a> </p> </td> 
   </tr> 
  </tbody> 
 </table>
@@ -51,7 +51,7 @@ ht-degree: 5%
  <tbody> 
   <tr> 
    <td colname="col1"> <p>Adobe Experience Platform Auditor-tests </p> </td> 
-   <td colname="col2"> <p> Toegevoegde tests <a href="run-debugger.md#section-82bc57440406461ebf27a16855b71655" format="dita" scope="local"> van de Auditor van de</a> Platform aan Experience Cloud Debugger </p> </td> 
+   <td colname="col2"> <p> Toegevoegde <a href="run-debugger.md#section-82bc57440406461ebf27a16855b71655" format="dita" scope="local"> tests van de Auditor van het Platform</a> aan Experience Cloud Debugger </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Adobe Audience Manager </p> </td> 
@@ -60,14 +60,14 @@ ht-degree: 5%
  </tbody> 
 </table>
 
-## Bug Fixes {#section-f5e9d54e9d2546afb97972cdb6d8a093}
+## Opgeloste problemen {#section-f5e9d54e9d2546afb97972cdb6d8a093}
 
 * Probleem verholpen waarbij de voettekst inhoud aan de onderkant van de pagina verbergt.
 
 * De voettekst van de Experience Cloud Debugger is bijgewerkt
 * Het probleem waarbij verouderde terminologie voor Target werd gebruikt, is opgelost.
 
-## Versie 0.0.809 februari 28, 2019 {#topic-6241de45fa9e4a23a95ad4d3a73f7348}
+## Versie 0.0.809 28 februari 2019 {#topic-6241de45fa9e4a23a95ad4d3a73f7348}
 
 ## Nieuwe functies {#section-14036b9f2c0144fdac5e292ea42ce564}
 
@@ -90,7 +90,7 @@ ht-degree: 5%
 
 * Oplossing voor een mogelijke kwetsbaarheid die wordt veroorzaakt door niet-gemanipuleerde gebruikersinvoer.
 
-## Bug Fixes {#section-556417ff055848c1bf037354dd43cbd0}
+## Opgeloste problemen {#section-556417ff055848c1bf037354dd43cbd0}
 
 * Probleem verholpen waarbij AAM DIL-gebeurtenissen niet werden vastgelegd op het tabblad AAM. Dit probleem is nu opgelost.
 
@@ -98,7 +98,7 @@ ht-degree: 5%
 * Probleem verholpen in Launch dynamisch invoegen waarbij een ongeldige URL werd weergegeven. Dit probleem is nu opgelost.
 * Probleem verholpen waarbij Experience Cloud Debugger de insluitcodes bleef vervangen, zelfs wanneer het venster Experience Cloud Debugger was gesloten. Dit probleem is nu opgelost.
 
-## Versie 0.0.806 september 2018 {#topic-a41c9d1969ff4d06ac3bb4e7d6b6d18a}
+## Versie 0.0.806 10 september 2018 {#topic-a41c9d1969ff4d06ac3bb4e7d6b6d18a}
 
 ## Nieuwe functies {#section-4eb2a6ed26a44abc96623384a7e94b0f}
 
@@ -116,7 +116,7 @@ ht-degree: 5%
   </tr> 
   <tr> 
    <td colname="col1"> <p>Starten dynamisch invoegen </p> </td> 
-   <td colname="col2"> <p>Via het tabblad Gereedschappen kunt u Adobe Experience Platform Launch dynamisch invoegen op elke pagina om te testen wat zich op een pagina bevindt waarop het starten van het Platform niet is geïnstalleerd. </p> </td> 
+   <td colname="col2"> <p>Via het tabblad Gereedschappen kunt u Adobe Experience Platform Launch dynamisch invoegen op elke pagina om te testen wat zich op een pagina bevindt waarop geen Platform launch is geïnstalleerd. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Verbeteringen voor doel </p> </td> 
@@ -134,7 +134,7 @@ ht-degree: 5%
 * De weergave van het tabblad Netwerk is verbeterd, zodat de hoogte van de tabel niet te groot wordt en de gebruiker verticaal moet schuiven voordat hij of zij horizontaal kan schuiven. Eerder werden de schuifbalken onder aan de tabel weergegeven. Omdat de tabel vrij groot kon worden, moesten gebruikers verticaal omlaag schuiven om ze te kunnen zien.
 * De koppeling naar ObservePoint is bijgewerkt via het tabblad Extra.
 
-## Bug Fixes {#section-d9231f5c77254d0888347e5f569a8b1d}
+## Opgeloste problemen {#section-d9231f5c77254d0888347e5f569a8b1d}
 
 * Probleem verholpen waarbij het tabblad Experience Cloud niet werd bijgewerkt
 
@@ -177,10 +177,10 @@ Versie 0.0.803 omvat geen klant-onder ogen ziet veranderingen.
 * Naam van Media Optimizer is gewijzigd in Advertising Cloud
 * Verwijderde oplossingen van het lusje van het Netwerk als niet gevonden
 
-## Bug Fixes {#section-7c0e4cc4b00a428489bed4a0a27c9501}
+## Opgeloste problemen {#section-7c0e4cc4b00a428489bed4a0a27c9501}
 
 * Correctie van een probleem waarbij de functie &#39;Klik op cel om weer te geven&#39; niet was bijgewerkt. Dit probleem is nu opgelost.
-* Probleem verholpen waarbij AAM treffers niet werden weergegeven op AAM tabblad. Dit probleem is nu opgelost.
+* Probleem verholpen waarbij AAM treffers niet werden weergegeven op AAM tabblad
 
 ## Versie 0.0.798 14 juni 2018 {#topic-3b2d44277f2f4c0295d82724c34bf467}
 
@@ -215,24 +215,24 @@ Versie 0.0.803 omvat geen klant-onder ogen ziet veranderingen.
    <td colname="col2"> <p> 
      <ul id="ul_D1EB0BE3A01C494983DAAF625562AC62"> 
       <li id="li_2696D26320F54A089D3CC99962EC9670">Verberg oplossingen in de Filter van Oplossingen als geen lijnpunten voor die oplossing in de logboeken worden gevonden </li> 
-      <li id="li_D4586A6AB2AD42BB9F0FA3E7A01382C6">Verberg de Niveau Filter als er geen DTM-aanroepen worden gevonden, omdat deze alleen van toepassing zijn op DTM </li> 
+      <li id="li_D4586A6AB2AD42BB9F0FA3E7A01382C6">Verberg het filter Niveau als er geen DTM-aanroepen worden gevonden, omdat het alleen van toepassing is op DTM </li> 
       <li id="li_E2AF179037DC4C63B960013AB1F9AD6A">Wijzig de pictogrammen in de kolom Niveau zodat ze er niet klikbaar uitzien wanneer er niets gebeurt wanneer u klikt </li> 
       <li id="li_3DB6682D6C9040D99F04C688E208CE1F">Opmaak van "Code tonen" op DTM-regelitems standaardiseren </li> 
      </ul> </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Help-koppeling bijwerken in voettekst </p> </td> 
-   <td colname="col2"> <p>Update Help link in footer to <a href="https://docs.adobe.com/content/help/en/debugger/using/experience-cloud-debugger.html" format="https" scope="external"> https://docs.adobe.com/content/help/en/debugger/using/experience-cloud-debugger.html</a> </p> </td> 
+   <td colname="col2"> <p>Update Help link in footer aan <a href="https://docs.adobe.com/content/help/en/debugger/using/experience-cloud-debugger.html" format="https" scope="external"> https://docs.adobe.com/content/help/en/debugger/using/experience-cloud-debugger.html</a> </p> </td> 
   </tr> 
  </tbody> 
 </table>
 
-## Bug Fixes {#section-c292cf7dcb17463bb1928de73bd55121}
+## Opgeloste problemen {#section-c292cf7dcb17463bb1928de73bd55121}
 
 * Probleem verholpen waarbij het badnummer niet werd gewist
 * Probleem verholpen waarbij een klant lege beknopte gegevens meldde.
 
-## Versie 0.0.797 mei 25, 2018 {#topic-51490f4f42aa40eb879663fad9d62916}
+## Versie 0.0.797 25 mei 2018 {#topic-51490f4f42aa40eb879663fad9d62916}
 
 ## Nieuwe functies {#section-bbf8ff7e000e4b5592d348e0870471f6}
 
