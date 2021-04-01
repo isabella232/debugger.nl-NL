@@ -1,5 +1,5 @@
 ---
-cloud: experience-platform
+cloud: Experience Platform
 product: experience platform
 sub-product: ervaringsplatformfoutopsporing
 solution: Experience Platform, Data Collection
@@ -9,7 +9,7 @@ user-guide-description: Onderzoek uw Web-pagina's voor problemen met uw Experien
 breadcrumb-title: Handleiding Foutopsporing Platform
 index: true
 translation-type: tm+mt
-source-git-commit: 24d9c114cde4ffd5cc7c64b6a66f778d3ce6f7d0
+source-git-commit: ba9d20e620fa85141507713749c8edd6504c46df
 workflow-type: tm+mt
 source-wordcount: '47'
 ht-degree: 8%
