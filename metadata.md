@@ -1,6 +1,6 @@
 ---
-cloud: experience-platform
-type: documentation
+cloud: Experience Platform
+type: documentatie
 solution-title: Informatie en ondersteuning
 solution-hub-url: https://helpx.adobe.com/support/experience-cloud/core-services.html
 solution-image: help/assets/experience-p-logo-24.png
@@ -11,17 +11,17 @@ tutorials-url: https://helpx.adobe.com/analytics/how-to/adobe-launch-publishing-
 git-repo: https://git.corp.adobe.com/AdobeDocs/debugger.nl-NL
 index: true
 translation-type: tm+mt
-source-git-commit: 24d9c114cde4ffd5cc7c64b6a66f778d3ce6f7d0
+source-git-commit: ba9d20e620fa85141507713749c8edd6504c46df
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '135'
+ht-degree: 83%
 
 ---
 
 
 # Metagegevens voor intern gebruik
 
-Het bestand metadata.md bevat metagegevens op niveau van de opslagplaats die worden doorgegeven aan TOC.md-bestanden van de gebruikershandleiding in de opslagplaats. Als u de content van metadata.md voor om het even welke gebruikershandleiding wilt veranderen, doet u dit in om het even welk TOC.md-bestand.
+Het bestand metadata.md bevat metagegevens op niveau van de repository die worden doorgegeven aan TOC.md-bestanden van de gebruikershandleiding in de repository. Als u de content van metadata.md voor om het even welke gebruikershandleiding wilt veranderen, doet u dit in om het even welk TOC.md-bestand.
 
 | metadata | wat het doet |
 |--- |--- |
@@ -31,4 +31,4 @@ Het bestand metadata.md bevat metagegevens op niveau van de opslagplaats die wor
 | getting-started-url | Koppeling naar pagina om aan de slag te gaan met helpx |
 | tutorials-url | Koppeling naar videotutorials: helpx-tutorials of KT-tutorials |
 | mini-toc-levels | Hiermee bepaalt u het aantal kopniveaus dat wordt weergegeven in de rechterrail. standaard is dit 2 |
-| git-repo | Hiermee wordt de locatie van de primaire opslagplaats voor intern gebruik opgegeven |
+| git-repo | Hiermee wordt de locatie van de primaire repository voor intern gebruik opgegeven |
