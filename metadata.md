@@ -1,6 +1,6 @@
 ---
 cloud: Experience Platform
-type: documentatie
+type: Documentation
 solution-title: Informatie en ondersteuning
 solution-hub-url: https://helpx.adobe.com/support/experience-cloud/core-services.html
 solution-image: help/assets/experience-p-logo-24.png
@@ -11,9 +11,9 @@ tutorials-url: https://helpx.adobe.com/analytics/how-to/adobe-launch-publishing-
 git-repo: https://git.corp.adobe.com/AdobeDocs/debugger.nl-NL
 index: true
 translation-type: tm+mt
-source-git-commit: ba9d20e620fa85141507713749c8edd6504c46df
+source-git-commit: c90784acea22a3c39ff13bffcd280d5fb2c70e88
 workflow-type: tm+mt
-source-wordcount: '135'
+source-wordcount: '134'
 ht-degree: 83%
 
 ---
