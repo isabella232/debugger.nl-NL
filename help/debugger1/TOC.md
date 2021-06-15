@@ -2,13 +2,12 @@
 cloud: Experience Cloud
 product: experience cloud
 sub-product: ervaren cloud debugger
-solution: Experience Cloud
+solution: Experience Cloud, Debugger
 audience: end-user
 user-guide-title: Experience Cloud Debugger Help
 user-guide-description: Onderzoek uw Web-pagina's voor problemen met uw de oplossingsimplementaties van Experience Cloud.
 breadcrumb-title: Handleiding Foutopsporing
-translation-type: tm+mt
-source-git-commit: ba9d20e620fa85141507713749c8edd6504c46df
+source-git-commit: b2298a5923c246fb6394af6bee76a8f24ea5ddd9
 workflow-type: tm+mt
 source-wordcount: '44'
 ht-degree: 9%
