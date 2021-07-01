@@ -1,18 +1,17 @@
 ---
 description: Foutopsporing Experience Platform logt scherm
-keywords: debugger;experience Platform Debugger extension;chrome;extension;logs
+keywords: foutopsporing;ervaring met Platform debugger-extensie;chroom;extensie;logs
 seo-description: Foutopsporing Experience Platform logt scherm
 seo-title: Logboeken
 title: Logboeken
 uuid: 8ce5fb57-c417-4674-864d-b7c03639a531
-translation-type: tm+mt
-source-git-commit: e5f85bb78ad818d3507ca48eee27bb1e44f4e1a7
+exl-id: 137a97f2-7e02-4e09-b4c9-e48e20e044d1
+source-git-commit: 8672a623442e5a0daa10597a4a93631131221fec
 workflow-type: tm+mt
-source-wordcount: '157'
+source-wordcount: '165'
 ht-degree: 2%
 
 ---
-
 
 # Logboeken{#logs}
 
@@ -26,11 +25,11 @@ Het Logs-scherm biedt specifieke informatie over DTM-, Adobe Experience Platform
 
 Het scherm Logs toont informatie in vier kolommen:
 
-**[!UICONTROL Solutions]:** De pictogrammen van vertoningen voor de oplossing van de Experience Cloud die door het geregistreerde punt wordt beïnvloed. Houd de muisaanwijzer boven het pictogram voor een tekstbeschrijving.
+**[!UICONTROL Solutions]:** Toont pictogrammen voor de oplossing van Experience Cloud die door het geregistreerde punt wordt beïnvloed. Houd de muisaanwijzer boven het pictogram voor een tekstbeschrijving.
 
 **[!UICONTROL Occurred at]:** Toont wanneer de geregistreerde kwestie tijdens de zitting voorkwam.
 
-**[!UICONTROL Log level]:** Geeft de ernst van het probleem weer. De ernst is een van de volgende niveaus:
+**[!UICONTROL Log level]:** Hiermee geeft u de ernst van het probleem weer. De ernst is een van de volgende niveaus:
 
 * Logboek
 * Info
@@ -39,6 +38,6 @@ Het scherm Logs toont informatie in vier kolommen:
 
 **[!UICONTROL Log message]:** Beschrijft de kwestie.
 
-Sommige logboekberichten bevatten een optie Code tonen. Klik **[!UICONTROL Show Code]** om de voorwaardelijke code weer te geven die bepaalt of een regel moet worden geactiveerd.
+Sommige logboekberichten bevatten een optie Code tonen. Klik **[!UICONTROL Show Code]** om de voorwaardelijke code te bekijken die bepaalt of een regel zou moeten in brand steken.
 
-Als u het logbestand wilt wissen, klikt u op **[!UICONTROL Remove Logs]**.
+Klik op **[!UICONTROL Remove Logs]** om het logbestand te wissen.
