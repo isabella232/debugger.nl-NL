@@ -13,7 +13,7 @@ ht-degree: 5%
 
 ---
 
-# Adobe Experience Cloud Debugger Extension{#adobe-experience-cloud-debugger-extension}
+# Adobe Experience Cloud Debugger-extensie{#adobe-experience-cloud-debugger-extension}
 
 De [Adobe Experience Cloud Debugger uitbreiding voor Chrome](https://chrome.google.com/webstore/detail/adobe-experience-cloud-de/ocdmogmohccmeicdhlhhgepeaijenapj) onderzoekt uw Web-pagina&#39;s en helpt u problemen vinden met hoe uw oplossingen van de Experience Cloud worden uitgevoerd.
 
@@ -28,7 +28,7 @@ De bovenstaande stappen worden niet noodzakelijkerwijs in die volgorde uitgevoer
 
 Hoewel u debugger op om het even welke Web-pagina kunt in werking stellen, zijn om het even welke niet openbare gegevens slechts beschikbaar in de uitbreiding als u in de Experience Cloud in één van uw open lusjes van Chrome voor authentiek wordt verklaard.
 
-## Gevallen {#section-9fcd0583ed184943a8f0c2d3c00658e0} gebruiken
+## Gevallen gebruiken {#section-9fcd0583ed184943a8f0c2d3c00658e0}
 
 Gebruik Foutopsporing om informatie te verzamelen die u helpt begrijpen hoe uw Experience Cloud oplossingen worden uitgevoerd. Bijvoorbeeld:
 
