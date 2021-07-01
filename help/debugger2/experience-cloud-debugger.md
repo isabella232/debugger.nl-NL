@@ -13,7 +13,7 @@ ht-degree: 10%
 
 ---
 
-# (Bèta) Adobe Experience Platform-foutopsporing {#adobe-experience-platform-debugger}
+# (bèta) Adobe Experience Platform Debugger {#adobe-experience-platform-debugger}
 
 >[!IMPORTANT]
 >
