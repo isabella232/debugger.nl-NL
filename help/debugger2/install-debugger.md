@@ -1,18 +1,17 @@
 ---
 description: Foutopsporing in Experience Platform installeren
-keywords: debugger;experience Platform Debugger extension;chrome;extension;install
+keywords: foutopsporing;ervaring met Platform debugger-extensie;chroom;extensie;installeren
 seo-description: Foutopsporing in Experience Platform installeren
 seo-title: Foutopsporing Experience Platform installeren
 title: Foutopsporing Experience Platform installeren
 uuid: 16d77c6d-11e7-4dfd-a846-3dace9f4070f
-translation-type: tm+mt
-source-git-commit: e5f85bb78ad818d3507ca48eee27bb1e44f4e1a7
+exl-id: add83773-dad7-4abe-9740-a69eb8fadbc3
+source-git-commit: 8672a623442e5a0daa10597a4a93631131221fec
 workflow-type: tm+mt
-source-wordcount: '98'
+source-wordcount: '106'
 ht-degree: 0%
 
 ---
-
 
 # Adobe Experience Platform Debugger installeren{#install-experience-platform-debugger}
 
@@ -22,12 +21,11 @@ ht-degree: 0%
 
 Download en installeer Adobe Experience Platform Debugger.
 
-* **Chroom:** Van de [Chrome-extensiepagina](https://chrome.google.com/webstore/detail/adobe-experience-cloud-de/ocdmogmohccmeicdhlhhgepeaijenapj)
-* **Firefox:** Van de [Firefox-invoegpagina](https://addons.mozilla.org/en-US/firefox/addon/adobe-experience-platform-dbg/)
+* **Chroom:** van de  [Chrome-extensiepagina](https://chrome.google.com/webstore/detail/adobe-experience-cloud-de/ocdmogmohccmeicdhlhhgepeaijenapj)
+* **Firefox:** van de  [Firefox-invoegpagina](https://addons.mozilla.org/en-US/firefox/addon/adobe-experience-platform-dbg/)
 
 Nadat u de Chrome-extensie of de Firefox-invoegtoepassing hebt geïnstalleerd, wordt een pictogram toegevoegd aan de uitbreidingsbalk:
 
 ![](assets/start-icon.jpg)
 
 Klik op het pictogram om Foutopsporing Experience Platform te starten.
-
