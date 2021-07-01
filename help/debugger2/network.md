@@ -1,18 +1,17 @@
 ---
 description: Het scherm van het Netwerk van Foutopsporing van het Experience Platform
-keywords: debugger;experience Platform Debugger extension;chrome;extension;network;information
+keywords: foutopsporing;ervaring met Platform debugger-extensie;chroom;extensie;netwerk;informatie
 seo-description: Het scherm van het Netwerk van Foutopsporing van het Experience Platform
 seo-title: Netwerkinformatie
 title: Netwerkinformatie
 uuid: 839686c9-6e4f-4661-acf6-150ea24dc47f
-translation-type: tm+mt
-source-git-commit: 53f027d5a5ae56c7a8e812b10a2649a38df3b31d
+exl-id: ed0579ef-ec26-43df-9453-a395c105038a
+source-git-commit: 8672a623442e5a0daa10597a4a93631131221fec
 workflow-type: tm+mt
-source-wordcount: '227'
+source-wordcount: '236'
 ht-degree: 2%
 
 ---
-
 
 # Netwerk{#network}
 
@@ -36,7 +35,7 @@ Om de informatie door oplossing te veranderen, selecteer de oplossing u van de l
 
 ![](assets/network-analytics.jpg)
 
-Klik op **[!UICONTROL Network]**
+Als u alle oplossingen wilt weergeven, klikt u op **[!UICONTROL Network]**
 
 Klik op een item in de netwerkweergave om een uitgebreide weergave te zien. Vanuit het uitgevouwen weergavevenster kunt u de weergegeven informatie naar het klembord kopiëren.
 
