@@ -1,16 +1,15 @@
 ---
 description: Info Experience Platform Auditor
-keywords: debugger;experience platform debugger extension;chrome;extension;auditor;dtm;target
+keywords: foutopsporing;ervaring met platformfoutopsporingsextensie;chroom;extensie;auditor;dtm;target
 seo-description: Info Experience Platform Auditor
 title: Auditor
-translation-type: tm+mt
-source-git-commit: 53f027d5a5ae56c7a8e812b10a2649a38df3b31d
+exl-id: 409094f8-a7d9-45f7-ba12-b5e6250abc0f
+source-git-commit: 8672a623442e5a0daa10597a4a93631131221fec
 workflow-type: tm+mt
-source-wordcount: '81'
+source-wordcount: '91'
 ht-degree: 1%
 
 ---
-
 
 # Auditor {#auditor}
 
@@ -20,7 +19,7 @@ ht-degree: 1%
 
 U kunt Adobe Experience Platform [Auditor](https://docs.adobe.com/content/help/en/auditor/using/overview.html) gebruiken om een reeks controles op uw pagina van het scherm van de Auditor in werking te stellen.
 
-1. Click **[!UICONTROL Auditor]** in the left nav.
+1. Klik **[!UICONTROL Auditor]** in de linkernav.
 1. Klik op **[!UICONTROL Run Auditor Tests]**.
 
 De testresultaten worden weergegeven.
