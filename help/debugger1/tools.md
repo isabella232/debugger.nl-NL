@@ -1,26 +1,25 @@
 ---
 description: Experience Cloud Debugger-gereedschappen, scherm
-keywords: debugger;experience cloud debugger extension;chrome;extension;tools;dtm;target
+keywords: foutopsporing;ervaring met cloudfoutopsporingsextensie;chroom;extensie;gereedschappen;dtm;target
 seo-description: Experience Cloud Debugger-gereedschappen, scherm
 seo-title: Tools
-title: Tools
+title: Gereedschappen
 uuid: ea3fe1ea-e936-4c5a-8a43-b830d1b75038
-translation-type: tm+mt
-source-git-commit: e5f85bb78ad818d3507ca48eee27bb1e44f4e1a7
+exl-id: ad108515-030f-4790-a29c-70f82e58a55d
+source-git-commit: 8672a623442e5a0daa10597a4a93631131221fec
 workflow-type: tm+mt
-source-wordcount: '392'
+source-wordcount: '402'
 ht-degree: 1%
 
 ---
 
-
-# Tools{#tools}
+# Gereedschappen{#tools}
 
 Op het scherm van Hulpmiddelen, kunt u diverse hulpmiddelen voor de geïnstalleerde oplossing toelaten of onbruikbaar maken. U kunt bijvoorbeeld de foutopsporingsinstructies voor de console van Target inschakelen of de DTM Staging Library gebruiken. Deze gereedschappen zijn alleen beschikbaar als Target en DTM op de pagina zijn geïnstalleerd.
 
 ![](assets/tools.jpg)
 
-U kunt Adobe Experience Platform Launch of DTM dynamisch op elke pagina invoegen om iets te testen op een pagina waarop het Platform Launch of DTM niet is geïnstalleerd. Klik op het **[!UICONTROL Embed Code]** pictogram, typ de [insluitcode](https://docs.adobe.com/content/help/en/dtm/using/client-side/deployment.html) en klik op **[!UICONTROL Save]**.
+U kunt Adobe Experience Platform Launch of DTM dynamisch op elke pagina invoegen om iets te testen op een pagina waarop geen Platform launch of DTM is geïnstalleerd. Klik op het pictogram **[!UICONTROL Embed Code]**, typ de [insluitcode](https://docs.adobe.com/content/help/en/dtm/using/client-side/deployment.html) en klik op **[!UICONTROL Save]**.
 
 ![](assets/tools-embedcode.jpg)
 
@@ -65,15 +64,15 @@ U kunt Adobe Experience Platform Launch of DTM dynamisch op elke pagina invoegen
  <tbody> 
   <tr> 
    <td colname="col1"> <p>Logboekregistratie doelconsole </p> </td> 
-   <td colname="col2"> <p>Dit hulpmiddel stelt doel-specifieke het zuiveren verklaringen aan de browser console, allen die met <span class="codeph"> AT beginnen bloot:</span> door een cookie met de naam <span class="codeph"> mboxDebug=true</span> aan uw browser toe te voegen. Op dit ogenblik, verschijnen de consoleverklaringen niet binnen het Debugger Logs scherm, maar zijn zichtbaar in de browser inheemse het zuiveren console. </p> <p> Voor dit gereedschap is 0.js 0.9.6+ vereist. Als u een oudere versie van at.js gebruikt, kunt u de parameter van het <span class="codeph"> ?mboxDebug=true</span> vraagkoord aan uw URL toevoegen om consoleregistratie aan te zetten. Als u mbox.js gebruikt, kunt u de parameter toevoegen <span class="codeph"> ?_AT_Debug=console</span> om consoleregistratie aan te zetten die tot de activiteiten van Composer van de Visuele Ervaring wordt beperkt. </p> </td> 
+   <td colname="col2"> <p>Dit hulpmiddel stelt doel-specifieke het zuiveren verklaringen aan de browser console bloot, die met <span class="codeph"> AT:</span> prefix beginnen, door een koekje toe te voegen genoemd <span class="codeph"> mboxDebug=true</span> aan uw browser. Op dit ogenblik, verschijnen de consoleverklaringen niet binnen het Debugger Logs scherm, maar zijn zichtbaar in de browser inheemse het zuiveren console. </p> <p> Voor dit gereedschap is 0.js 0.9.6+ vereist. Als u een oudere versie van at.js gebruikt, kunt u <span class="codeph"> ?mboxDebug=true</span> vraagkoordparameter aan uw URL toevoegen om consoleregistratie aan te zetten. Als u mbox.js gebruikt, kunt u <span class="codeph"> toevoegen ?_AT_Debug=console</span> parameter om consoleregistratie aan te zetten beperkt tot de activiteiten van Composer van de Visuele Ervaring. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p> Mbox-sporen inschakelen </p> </td> 
-   <td colname="col2"> <p>Dit hulpmiddel voegt gedetailleerde informatie aan de Reacties van het Doel toe, die in het <span class="uicontrol"> Doel&gt;scherm van het Spoor</span> van het Debugger kan worden onderzocht. </p> <p> U moet op een van uw tabbladen van Chrome zijn aangemeld bij de Experience Cloud om dit gereedschap in te schakelen. </p> </td> 
+   <td colname="col2"> <p>Dit hulpmiddel voegt gedetailleerde informatie aan de Reacties van het Doel toe, die in het <span class="uicontrol"> scherm van het Spoor </span> van  van het Doel kan worden onderzocht. </p> <p> U moet op een van uw tabbladen van Chrome zijn aangemeld bij de Experience Cloud om dit gereedschap in te schakelen. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Doel uitschakelen </p> </td> 
-   <td colname="col2"> <p>Dit hulpmiddel maakt alle verzoeken van het Doel onbruikbaar door een koekje genoemd <span class="codeph"> mboxDisable=true</span> aan uw browser toe te voegen. </p> <p> Voor dit gereedschap is 0.js 0.9.6+ vereist. Als u een oudere versie gebruikt, kunt u de parameter van het <span class="codeph"> ?mboxDisable=true </span>vraagkoord aan uw URL toevoegen om dozen onbruikbaar te maken. </p> </td> 
+   <td colname="col2"> <p>Dit hulpmiddel maakt alle verzoeken van het Doel onbruikbaar door een koekje toe te voegen genoemd <span class="codeph"> mboxDisable=true</span> aan uw browser. </p> <p> Voor dit gereedschap is 0.js 0.9.6+ vereist. Als u een oudere versie gebruikt, kunt u de <span class="codeph"> ?mboxDisable=true </span>querytekenreeksparameter aan uw URL toevoegen om selectievakjes uit te schakelen. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p> Mbox Highlight </p> </td> 
