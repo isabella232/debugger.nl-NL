@@ -1,18 +1,17 @@
 ---
 description: Experience Cloud Debugger Network Information, scherm
-keywords: debugger;experience cloud debugger extension;chrome;extension;network;information
+keywords: foutopsporing;ervaring met cloudfoutopsporingsextensie;chroom;extensie;netwerk;informatie
 seo-description: Experience Cloud Debugger Network Information, scherm
 seo-title: Netwerkinformatie
 title: Netwerkinformatie
 uuid: 839686c9-6e4f-4661-acf6-150ea24dc47f
-translation-type: tm+mt
-source-git-commit: 1d81f427e2c1a68a182fae8262d0e2ad32a87223
+exl-id: 9a758088-e87f-42a6-8410-24eb84d0d37a
+source-git-commit: 8672a623442e5a0daa10597a4a93631131221fec
 workflow-type: tm+mt
-source-wordcount: '217'
+source-wordcount: '226'
 ht-degree: 2%
 
 ---
-
 
 # Netwerkinformatie{#network-information}
 
@@ -28,7 +27,7 @@ Het scherm van het Netwerk aggregeert alle de oplossingsvraag van Adobe Experien
 >
 >Op dit ogenblik, zijn niet alle parameters die in de oplossingsvraag worden overgegaan (bijvoorbeeld, de contextvariabelen van Analytics, de douaneparameters van het Doel, of de Klant IDs van de Dienst van Experience Cloud ID) zichtbaar in het scherm van het Netwerk.
 
-Selecteer **[!UICONTROL All]**.
+Selecteer **[!UICONTROL All]** om alle informatie weer te geven.
 
 U kunt de informatie ook filteren op oplossing. Selecteer de oplossingen die u wilt bekijken. U kunt meerdere oplossingen tegelijkertijd bekijken. De geselecteerde oplossingsfilters worden gemarkeerd.
 
@@ -41,4 +40,3 @@ Klik op een punt in de mening van het Netwerk om het groter te zien. Vanuit het 
 Gebruik het pictogram boven aan elke kolom om de URL van de serveraanroep naar het klembord te kopiëren, waar u deze ter referentie of voor foutopsporing in een ander document kunt plakken.
 
 ![](assets/copy.jpg)
-
