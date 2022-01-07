@@ -1,29 +1,28 @@
 ---
-description: Info Experience Platform Auditor
-keywords: foutopsporing;ervaring met platformfoutopsporingsextensie;chroom;extensie;auditor;dtm;target
-seo-description: Info Experience Platform Auditor
 title: Auditor
+description: Leer hoe u het tabblad Audit in Adobe Experience Platform Debugger kunt gebruiken om uw Adobe Experience Cloud-implementaties te testen.
+keywords: foutopsporing;ervaring met platformfoutopsporingsextensie;chroom;extensie;auditor;dtm;target
 exl-id: 409094f8-a7d9-45f7-ba12-b5e6250abc0f
-source-git-commit: 8672a623442e5a0daa10597a4a93631131221fec
+source-git-commit: 38aa891a1de63ad395f12726597bd8bba82189e6
 workflow-type: tm+mt
-source-wordcount: '91'
-ht-degree: 1%
+source-wordcount: '111'
+ht-degree: 0%
 
 ---
 
-# Auditor {#auditor}
+# Auditor
 
 >[!IMPORTANT]
 >
 >Adobe Experience Platform Debugger bevindt zich momenteel in bèta. De documentatie en de functionaliteit kunnen worden gewijzigd.
 
-U kunt Adobe Experience Platform [Auditor](https://docs.adobe.com/content/help/en/auditor/using/overview.html) gebruiken om een reeks controles op uw pagina van het scherm van de Auditor in werking te stellen.
+In Adobe Experience Platform Debugger kunt u de opdracht **[!UICONTROL Auditor]** om een reeks controletests op uw pagina uit te voeren.
 
-1. Klik **[!UICONTROL Auditor]** in de linkernav.
-1. Klik op **[!UICONTROL Run Auditor Tests]**.
+Deze functie gebruiken:
 
-De testresultaten worden weergegeven.
+1. Selecteren **[!UICONTROL Auditor]** in de linkernavigatie.
+1. Selecteer **[!UICONTROL Run Auditor Tests]**. Zodra de tests zijn voltooid, worden de resultaten hieronder weergegeven.
 
-![](assets/auditor-results.jpg)
+![Screenshot van testresultaten op het tabblad Auditor](./assets/auditor-results.png)
 
 In de resultatenlijst worden de test en het resultaat weergegeven en staan suggesties om eventuele problemen op te lossen.

@@ -1,15 +1,15 @@
 ---
 description: Foutopsporing in Experience Platform onderzoekt uw webpagina's en helpt u problemen te vinden met de manier waarop uw Experience Cloud-oplossingen zijn geïmplementeerd
 keywords: foutopsporing;ervaring met Platform debugger-extensie;chroom;extensie
-seo-description: Technische documentatie voor de Adobe Experience Platform Debugger Chrome en Firefox-extensie - bestudeer uw webpagina's en begrijp problemen met de implementatie van uw Experience Cloud-oplossing
-seo-title: Adobe Experience Platform Debugger Chrome en Firefox Extension
+seo-description: Technical documentation for the Adobe Experience Platform Debugger Chrome and Firefox Extension - examine your web pages and understand problems with your Experience Cloud solution mplementations
+seo-title: Adobe Experience Platform Debugger Chrome and Firefox Extension
 title: Adobe Experience Platform Debugger-extensie
 uuid: 42e2c8a2-548a-4a3f-b57d-532535a0e7b9
 exl-id: e02bc318-fbff-4a19-980a-d5c0a21ca300
-source-git-commit: e3f0fa30fa5caeccc9a01b5d1949722836645da9
+source-git-commit: 38aa891a1de63ad395f12726597bd8bba82189e6
 workflow-type: tm+mt
-source-wordcount: '312'
-ht-degree: 10%
+source-wordcount: '289'
+ht-degree: 4%
 
 ---
 
@@ -19,25 +19,27 @@ ht-degree: 10%
 >
 >Adobe Experience Platform Debugger bevindt zich momenteel in bèta. De documentatie en de functionaliteit kunnen worden gewijzigd.
 
-[Adobe Experience Platform Debugger voor ](https://chrome.google.com/webstore/detail/adobe-experience-cloud-de/ocdmogmohccmeicdhlhhgepeaijenapj) Chromeand  [](https://addons.mozilla.org/en-US/firefox/addon/adobe-experience-platform-dbg/) Firefoxes onderzoekt uw Web-pagina&#39;s en helpt u problemen vinden met hoe uw oplossingen van de Experience Cloud worden uitgevoerd.
+De Adobe Experience Platform Debugger-extensie voor [Chroom](https://chrome.google.com/webstore/detail/adobe-experience-cloud-de/ocdmogmohccmeicdhlhhgepeaijenapj) en [Firefox](https://addons.mozilla.org/en-US/firefox/addon/adobe-experience-platform-dbg/) onderzoekt uw webpagina&#39;s en helpt u problemen te vinden met de manier waarop uw Adobe Experience Cloud-oplossingen zijn geïmplementeerd.
 
-Gebruik Foutopsporing van het Platform met de andere oplossingen van de activering van Adobe voor een werkschema als het volgende:
+U kunt Foutopsporing van het Platform met de andere oplossingen van de activering van Adobe gebruiken om het volgende uit te voeren:
 
-1. Gebruik [Launch](https://experienceleague.adobe.com/docs/launch/using/home.html) of [DTM](https://docs.adobe.com/content/help/nl-NL/dtm/using/dtm-home.html) om code in te voegen die [Adobe Experience Cloud](https://docs.adobe.com/content/help/nl-NL/core-services/interface/experience-cloud.html) oplossingen op uw pagina&#39;s activeert.
+1. Gebruiken [tags](https://experienceleague.adobe.com/docs/launch/using/home.html) in de UI van de Inzameling van Gegevens om code op te nemen die activeert [Adobe Experience Cloud](https://docs.adobe.com/content/help/nl-NL/core-services/interface/experience-cloud.html) producten op uw pagina&#39;s.
+1. Gebruik de [**[!UICONTROL Auditor]**tab](./auditor.md) in Foutopsporing Platform om uw implementaties te testen.
+1. Gebruik op gebeurtenis-gebaseerde en oplossing-specifieke hulpmiddelen in Foutopsporing van het Platform om kwesties te zuiveren die door Auditor worden gevonden of andere informatie over uw implementaties te onderzoeken.
 
-1. Gebruik [Adobe Experience Platform Auditor](https://experiencecloud.adobe.com/resources/help/en_US/auditor/) om uw implementaties te testen.
-1. Gebruik Foutopsporing van Adobe Experience Platform om problemen op te sporen die door de controleur zijn aangetroffen of om andere informatie over uw implementaties te bekijken.
+>[!NOTE]
+>
+>Hoewel de bovenstaande stappen een gemeenschappelijk proces vormen, worden ze niet noodzakelijkerwijs in de aangegeven volgorde uitgevoerd.
 
-De bovenstaande stappen worden niet noodzakelijkerwijs in die volgorde uitgevoerd, maar het is een gangbaar proces.
-
-Hoewel u foutopsporing voor Platforms op elke webpagina kunt uitvoeren, zijn niet-openbare gegevens alleen beschikbaar in de extensie als u op een van de geopende Chrome-tabbladen voor authentiek bent verklaard op de Experience Cloud.
+U kunt Foutopsporing op Platform uitvoeren op elke webpagina en de extensie heeft toegang tot openbare gegevens. Als u toegang wilt tot niet-openbare gegevens met de extensie, moet u op een geopend browsertabblad zijn geverifieerd in Experience Cloud.
 
 ## Gebruiksscenario’s {#section-9fcd0583ed184943a8f0c2d3c00658e0}
 
-Foutopsporing voor Platforms gebruiken om informatie te verzamelen die u helpt te begrijpen hoe uw Experience Cloud-oplossingen zijn geïmplementeerd. Bijvoorbeeld:
+U kunt de informatie gebruiken die door Foutopsporing van het Platform wordt verzameld om beter te begrijpen hoe uw oplossingen van de Experience Cloud worden uitgevoerd. Bijvoorbeeld:
 
-* **Adobe Experience Platform Launch:** Zie welke eigenschap, omgeving, build op een pagina worden geïmplementeerd.
-* **Target:** Zie voor welke activiteiten u wel of niet in aanmerking komt en waarom.
+* **Tags**: Zie welke bezit, milieu, bouwt op een pagina worden opgesteld.
+* **Adobe Target**: Zie voor welke activiteiten u wel of niet in aanmerking komt en waarom.
+* **Adobe Analytics**: Zie welke rapportsuites actief zijn op de huidige pagina.
 
 ## Videotutorial
 
