@@ -6,10 +6,10 @@ seo-title: Release Notes
 title: Aanvullende informatie
 uuid: 47a5d6f3-c074-4ad5-ad4b-e6030496689b
 exl-id: 3eed44da-5f85-413e-a783-3a0df03a2baf
-source-git-commit: 026ce852ded530e89f36bb01274d7481e07731c0
+source-git-commit: 3cff0a4199d58fa18b89af42d77813f38f30b512
 workflow-type: tm+mt
-source-wordcount: '234'
-ht-degree: 7%
+source-wordcount: '287'
+ht-degree: 2%
 
 ---
 
@@ -17,71 +17,31 @@ ht-degree: 7%
 
 ## Aanvullende informatie {#topic-a92c3eb799b74e7fa404af8af5efb215}
 
-## Versie 1.2.0 26 oktober 2021
+## Versie 1.3.0 - 28 januari 2022
 
-## Nieuwe functies
+* Koppeling Informatie toegevoegd om huidige releaseversie en notities weer te geven.
+* Toegevoegde schakeloptie voor het weergeven van uitgevoerde resultaten voor analytische aanvragen. De schakeloptie is beschikbaar in de sectie Analytics.
+* Probleem met externe foutopsporingssessie verholpen toen de sessie buiten foutopsporing werd gesloten.
+* Het foutbericht dat werd weergegeven op het tabblad Edge Transactions van de Web SDK. Dit probleem is nu opgelost.
+* Correctie van Adobe-tags op waarschuwing voor pagina-afdrukking wanneer de foutopsporing het object _satelliet heeft geopend.
+* Probleem verholpen waarbij een instantie AppMeasurement niet op de pagina werd gevonden.
+* Probleem met paginaverbinding verholpen die optrad bij de eerste keer dat het foutopsporingsvenster werd geopend.
 
-<table id="table">
- <thead>
-  <tr>
-   <th colname="col1" class="entry"> Functie </th>
-   <th colname="col2" class="entry"> Beschrijving </th>
-  </tr>
- </thead>
- <tbody>
-  <tr>
-   <td colname="col1"> <p> Gebeurtenissen van alle browsertabbladen zijn zichtbaar in de netwerkweergave </p> </td>
-   <td colname="col2"> <p> Gebeurtenissen weergeven vanaf alle browsertabbladen in de netwerkweergave. Als u alleen de gebeurtenissen vanaf het huidige tabblad wilt zien, klikt u op het vergrendelingspictogram in de rechterbenedenhoek van het foutopsporingsprogramma.</p> </td>
-  </tr>
-  <tr>
-   <td colname="col1"> <p> Branding wijzigen </p> </td>
-   <td colname="col2"> <p> AEP Web SDK wordt Adobe Experience Platform Web SDK en Launch wordt Adobe Experience Platform Tags.</p> </td>
-  </tr>
- </tbody>
-</table>
+## Versie 1.2.0 - 26 oktober 2021
 
-## Versie 1.1.0 5 oktober 2021
+* Gebeurtenissen weergeven vanaf alle browsertabbladen in de netwerkweergave. Als u alleen de gebeurtenissen vanaf het huidige tabblad wilt zien, klikt u op het vergrendelingspictogram in de rechterbenedenhoek van het foutopsporingsprogramma.
+* Bijgewerkte branding.
 
-## Nieuwe functies
+## Versie 1.1.0 - 5 oktober 2021
 
-<table id="table">
- <thead>
-  <tr>
-   <th colname="col1" class="entry"> Functie </th>
-   <th colname="col2" class="entry"> Beschrijving </th>
-  </tr>
- </thead>
- <tbody>
-  <tr>
-   <td colname="col1"> <p> Visualisatie van foutopsporing op afstand </p> </td>
-   <td colname="col2"> <p> Organiseer de gebeurtenissen voor foutopsporing op afstand in een visueel stroomdiagram in het gedeelte Adobe Experience Platform Web SDK &gt; Edge Transactions. Bovendien, vereist de org IMS van SDK IMS van het Web van Adobe Experience Platform die op de pagina wordt gebruikt het aangemelde org aan te passen wanneer het beginnen van een nieuwe verre het zuiveren zitting. Filter randtransacties op het verbonden tabblad.</p> <p> <b>Opmerking:</b> Logbestanden met doelsporen zijn nog steeds beschikbaar in de sectie Logs &gt; Edge.</p> </td>
-  </tr>
-  <tr>
-   <td colname="col1"> <p> Verbeteringen in de Adobe Experience Platform Web SDK-configuratiesectie </p> </td>
-   <td colname="col2"> <p> Afzonderlijke ID config-overschrijving van gegevensstroom toestaan voor elke instantie op de pagina. Schakelen tussen foutopsporing ingeschakeld toevoegen.</p> </td>
-  </tr>
- </tbody>
-</table>
+* Visualisatie van foutopsporing op afstand - Organiseer de gebeurtenissen voor foutopsporing op afstand in een visueel stroomdiagram in de sectie Adobe Experience Platform Web SDK > Edge Transactions.
+* Vereisen de Adobe Experience Platform Web SDK IMS org die op de pagina wordt gebruikt de het programma geopende org wanneer het beginnen van een nieuwe verre het zuiveren zitting aanpast.
+* Alleen de randtransacties voor het verbonden tabblad weergeven.
 
-## Opgeloste problemen
-
+> **Opmerking:** Logbestanden met doelsporen zijn nog steeds beschikbaar in de sectie Logs > Edge.
+* Sta afzonderlijke de configuratieopheffing van identiteitskaart van de gegevensstroom voor elke instantie van het Web SDK van Adobe Experience Platform op de pagina toe. Schakelen tussen foutopsporing ingeschakeld toevoegen.
 * Probleem verholpen waarbij het Adobe Target-traceringstoken niet altijd werd verzonden met foutopsporingssessies op afstand voor de Adobe Experience Platform Web SDK.
 
 ## Versie 1.0.0 5 mei 2021
 
-## Nieuwe functies
-
-<table id="table_7EFCAF456B14404FAF3715FC56519AAF">
- <thead>
-  <tr>
-   <th colname="col1" class="entry"> Functie </th>
-   <th colname="col2" class="entry"> Beschrijving </th>
-  </tr>
- </thead>
- <tbody>
-  <tr>
-   <td colname="col1"> <p> Eerste release </p> </td>
-   <td colname="col2"> <p> Eerste hoofdrelease van foutopsporing van Experience Platform. Bedoeld om de Experience Cloud Debugger te vervangen. </p> </td>
-  </tr>
- </tbody>
-</table>
+* Eerste hoofdrelease van foutopsporing van Experience Platform. Bedoeld om de Experience Cloud Debugger te vervangen.
