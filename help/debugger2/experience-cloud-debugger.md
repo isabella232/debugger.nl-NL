@@ -6,7 +6,7 @@ seo-title: Adobe Experience Platform Debugger Chrome and Firefox Extension
 title: Adobe Experience Platform Debugger-extensie
 uuid: 42e2c8a2-548a-4a3f-b57d-532535a0e7b9
 exl-id: e02bc318-fbff-4a19-980a-d5c0a21ca300
-source-git-commit: 38aa891a1de63ad395f12726597bd8bba82189e6
+source-git-commit: af031b800b991e0e906e9abda88992f093c58fbc
 workflow-type: tm+mt
 source-wordcount: '289'
 ht-degree: 4%
@@ -24,7 +24,7 @@ De Adobe Experience Platform Debugger-extensie voor [Chroom](https://chrome.goog
 U kunt Foutopsporing van het Platform met de andere oplossingen van de activering van Adobe gebruiken om het volgende uit te voeren:
 
 1. Gebruiken [tags](https://experienceleague.adobe.com/docs/launch/using/home.html) in de UI van de Inzameling van Gegevens om code op te nemen die activeert [Adobe Experience Cloud](https://docs.adobe.com/content/help/nl-NL/core-services/interface/experience-cloud.html) producten op uw pagina&#39;s.
-1. Gebruik de [**[!UICONTROL Auditor]**tab](./auditor.md) in Foutopsporing Platform om uw implementaties te testen.
+1. Gebruik de [**[!UICONTROL Auditor]**tab](./auditor/overview.md) in Foutopsporing Platform om uw implementaties te testen.
 1. Gebruik op gebeurtenis-gebaseerde en oplossing-specifieke hulpmiddelen in Foutopsporing van het Platform om kwesties te zuiveren die door Auditor worden gevonden of andere informatie over uw implementaties te onderzoeken.
 
 >[!NOTE]
