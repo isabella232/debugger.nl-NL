@@ -13,7 +13,7 @@ ht-degree: 4%
 
 ---
 
-# (bèta) Adobe Experience Platform Debugger {#adobe-experience-platform-debugger}
+# (Beta) Adobe Experience Platform Debugger {#adobe-experience-platform-debugger}
 
 >[!IMPORTANT]
 >
@@ -23,7 +23,7 @@ De Adobe Experience Platform Debugger-extensie voor [Chroom](https://chrome.goog
 
 U kunt Foutopsporing van het Platform met de andere oplossingen van de activering van Adobe gebruiken om het volgende uit te voeren:
 
-1. Gebruiken [tags](https://experienceleague.adobe.com/docs/launch/using/home.html) in de UI van de Inzameling van Gegevens om code op te nemen die activeert [Adobe Experience Cloud](https://docs.adobe.com/content/help/nl-NL/core-services/interface/experience-cloud.html) producten op uw pagina&#39;s.
+1. Use [tags](https://experienceleague.adobe.com/docs/launch/using/home.html) in the Data Collection UI to insert code that activates [Adobe Experience Cloud](https://docs.adobe.com/content/help/nl-NL/core-services/interface/experience-cloud.html) products on your pages.
 1. Gebruik de [**[!UICONTROL Auditor]**tab](./auditor/overview.md) in Foutopsporing Platform om uw implementaties te testen.
 1. Gebruik op gebeurtenis-gebaseerde en oplossing-specifieke hulpmiddelen in Foutopsporing van het Platform om kwesties te zuiveren die door Auditor worden gevonden of andere informatie over uw implementaties te onderzoeken.
 
@@ -35,7 +35,7 @@ U kunt Foutopsporing op Platform uitvoeren op elke webpagina en de extensie heef
 
 ## Gebruiksscenario’s {#section-9fcd0583ed184943a8f0c2d3c00658e0}
 
-U kunt de informatie gebruiken die door Foutopsporing van het Platform wordt verzameld om beter te begrijpen hoe uw oplossingen van de Experience Cloud worden uitgevoerd. Bijvoorbeeld:
+You can use the information gathered by Platform Debugger to better understand how your Experience Cloud solutions are implemented. Bijvoorbeeld:
 
 * **Tags**: Zie welke bezit, milieu, bouwt op een pagina worden opgesteld.
 * **Adobe Target**: Zie voor welke activiteiten u wel of niet in aanmerking komt en waarom.

@@ -5,8 +5,8 @@ keywords: foutopsporing;ervaring met platformfoutopsporingsextensie;chroom;exten
 exl-id: 409094f8-a7d9-45f7-ba12-b5e6250abc0f
 source-git-commit: 84aa9d71d3f3bc84a9bcbf18a9978428964f1f74
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '373'
+ht-degree: 9%
 
 ---
 
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 >[!IMPORTANT]
 >
->Adobe Experience Platform Debugger is currently in beta. De documentatie en de functionaliteit kunnen worden gewijzigd.
+>Adobe Experience Platform Debugger bevindt zich momenteel in bèta. De documentatie en de functionaliteit kunnen worden gewijzigd.
 
 In Adobe Experience Platform Debugger kunt u de opdracht **[!UICONTROL Auditor]** om een reeks controletests op uw pagina uit te voeren.
 

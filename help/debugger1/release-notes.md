@@ -1,21 +1,19 @@
 ---
 description: Opmerkingen bij de release voor Experience Cloud Debugger
 keywords: foutopsporing;ervaring met de foutopsporingsextensie voor de cloud;chroom;extensie;releaseopmerkingen
-seo-description: Opmerkingen bij de release voor Experience Cloud Debugger
-seo-title: Release-opmerkingen
-title: Release-opmerkingen
+title: Release Notes Experience Cloud Debugger
 uuid: 47a5d6f3-c074-4ad5-ad4b-e6030496689b
 exl-id: 1c81a0f2-81ae-4f29-8c48-45e755cabb07
-source-git-commit: 8672a623442e5a0daa10597a4a93631131221fec
+source-git-commit: 2778ba78de3350ed1da01d452e303476b04c0303
 workflow-type: tm+mt
-source-wordcount: '732'
+source-wordcount: '727'
 ht-degree: 5%
 
 ---
 
-# Release-opmerkingen{#release-notes}
+# Aanvullende informatie{#release-notes}
 
-## Release-opmerkingen {#topic-a92c3eb799b74e7fa404af8af5efb215}
+## Aanvullende informatie {#topic-a92c3eb799b74e7fa404af8af5efb215}
 
 ## Versie 0.0.817 mei 2019 {#topic-5dc9026cac864330b04361b1da8309a8}
 
@@ -31,7 +29,7 @@ ht-degree: 5%
  <tbody> 
   <tr> 
    <td colname="col1"> <p>Nabewerkingsgegevens </p> </td> 
-   <td colname="col2"> <p> De mogelijkheid toegevoegd om de waarden van de <a href="solutions.md#section-f71dfcc22bb44c86bec328491606a482" format="dita" scope="local">-weergave te bekijken bij treffers voor Analytics nadat de verwerkingsregels zijn uitgevoerd.</a> </p> </td> 
+   <td colname="col2"> <p> De mogelijkheid toegevoegd om <a href="solutions.md#section-f71dfcc22bb44c86bec328491606a482" format="dita" scope="local"> weergavewaarden van analyseresultaten nadat de verwerkingsregels zijn uitgevoerd</a>. </p> </td> 
   </tr> 
  </tbody> 
 </table>
@@ -50,7 +48,7 @@ ht-degree: 5%
  <tbody> 
   <tr> 
    <td colname="col1"> <p>Adobe Experience Platform Auditor-tests </p> </td> 
-   <td colname="col2"> <p> Toegevoegde <a href="run-debugger.md#section-82bc57440406461ebf27a16855b71655" format="dita" scope="local"> tests van de Auditor van het Platform</a> aan Experience Cloud Debugger </p> </td> 
+   <td colname="col2"> <p> Toegevoegd <a href="run-debugger.md#section-82bc57440406461ebf27a16855b71655" format="dita" scope="local"> Platform Auditor-tests</a> naar Experience Cloud Debugger </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Adobe Audience Manager </p> </td> 
@@ -97,7 +95,7 @@ ht-degree: 5%
 * Probleem verholpen in Launch dynamisch invoegen waarbij een ongeldige URL werd weergegeven. Dit probleem is nu opgelost.
 * Probleem verholpen waarbij Experience Cloud Debugger de insluitcodes bleef vervangen, zelfs wanneer het venster Experience Cloud Debugger was gesloten. Dit probleem is nu opgelost.
 
-## Versie 0.0.806 september 2018 {#topic-a41c9d1969ff4d06ac3bb4e7d6b6d18a}
+## Versie 0.0.806 10 september 2018 {#topic-a41c9d1969ff4d06ac3bb4e7d6b6d18a}
 
 ## Nieuwe functies {#section-4eb2a6ed26a44abc96623384a7e94b0f}
 
@@ -142,7 +140,7 @@ ht-degree: 5%
 
 ## Versie 0.0.803 10 augustus 2018 {#topic-d2901fb70ce04a5586f6c7a994fce875}
 
-Versie 0.0.803 omvat geen klant-onder ogen ziet veranderingen.
+Versie 0.0.803 omvat geen klant-gerichte veranderingen.
 
 ## Versie 0.0.802 1 augustus 2018 {#topic-b93cd396af5e49dc97cd86264871aeb4}
 
@@ -221,7 +219,7 @@ Versie 0.0.803 omvat geen klant-onder ogen ziet veranderingen.
   </tr> 
   <tr> 
    <td colname="col1"> <p>Help-koppeling bijwerken in voettekst </p> </td> 
-   <td colname="col2"> <p>Update Help link in footer aan <a href="https://docs.adobe.com/content/help/en/debugger/using/experience-cloud-debugger.html" format="https" scope="external"> https://docs.adobe.com/content/help/en/debugger/using/experience-cloud-debugger.html</a> </p> </td> 
+   <td colname="col2"> <p>Help-koppeling in voettekst bijwerken naar <a href="https://docs.adobe.com/content/help/en/debugger/using/experience-cloud-debugger.html" format="https" scope="external"> https://docs.adobe.com/content/help/en/debugger/using/experience-cloud-debugger.html</a> </p> </td> 
   </tr> 
  </tbody> 
 </table>
