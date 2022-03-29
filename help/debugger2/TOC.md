@@ -2,13 +2,13 @@
 cloud: Experience Platform
 product: experience platform
 sub-product: experience platform debugger
-solution: Experience Platform, Data Collection, Debugger
+solution: Data Collection, Debugger
 audience: end-user
 user-guide-title: Help bij Foutopsporing Experience Platform
 user-guide-description: Onderzoek uw Web-pagina's voor problemen met uw Experience Platform implementaties.
 breadcrumb-title: Handleiding Foutopsporing Platform
 index: true
-source-git-commit: 84aa9d71d3f3bc84a9bcbf18a9978428964f1f74
+source-git-commit: b4f705ad457ff5841f1610a01e2e8e40cd54f894
 workflow-type: tm+mt
 source-wordcount: '55'
 ht-degree: 9%
