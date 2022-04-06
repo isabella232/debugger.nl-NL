@@ -1,31 +1,23 @@
 ---
-description: Foutopsporing in Experience Platform installeren
+title: Foutopsporing Platform installeren
+description: Leer hoe u Adobe Experience Platform Debugger installeert.
 keywords: foutopsporing;ervaring met Platform debugger-extensie;chroom;extensie;installeren
-seo-description: Foutopsporing in Experience Platform installeren
-seo-title: Foutopsporing Experience Platform installeren
-title: Foutopsporing Experience Platform installeren
+seo-description: How to Install Experience Platform Debugger
+seo-title: Install Experience Platform Debugger
 uuid: 16d77c6d-11e7-4dfd-a846-3dace9f4070f
 exl-id: add83773-dad7-4abe-9740-a69eb8fadbc3
-source-git-commit: 8672a623442e5a0daa10597a4a93631131221fec
+source-git-commit: a442fa56589003dad4ca9896ef601349fb93d280
 workflow-type: tm+mt
-source-wordcount: '106'
+source-wordcount: '87'
 ht-degree: 0%
 
 ---
 
-# Adobe Experience Platform Debugger installeren{#install-experience-platform-debugger}
+# Foutopsporing Platform installeren
 
->[!IMPORTANT]
->
->Adobe Experience Platform Debugger bevindt zich momenteel in bèta. De documentatie en de functionaliteit kunnen worden gewijzigd.
+Foutopsporing voor Adobe Experience Platform kan worden geïnstalleerd in Google Chrome- of Mozilla Firefox-browsers Klik op de onderstaande koppeling om de extensie te installeren in uw voorkeursbrowser:
 
-Download en installeer Adobe Experience Platform Debugger.
+* [Chroom](https://chrome.google.com/webstore/detail/adobe-experience-cloud-de/ocdmogmohccmeicdhlhhgepeaijenapj)
+* [Firefox](https://addons.mozilla.org/en-US/firefox/addon/adobe-experience-platform-dbg/)
 
-* **Chroom:** van de  [Chrome-extensiepagina](https://chrome.google.com/webstore/detail/adobe-experience-cloud-de/ocdmogmohccmeicdhlhhgepeaijenapj)
-* **Firefox:** van de  [Firefox-invoegpagina](https://addons.mozilla.org/en-US/firefox/addon/adobe-experience-platform-dbg/)
-
-Nadat u de Chrome-extensie of de Firefox-invoegtoepassing hebt geïnstalleerd, wordt een pictogram toegevoegd aan de uitbreidingsbalk:
-
-![](assets/start-icon.jpg)
-
-Klik op het pictogram om Foutopsporing Experience Platform te starten.
+Nadat u de Chrome-extensie of de Firefox-invoegtoepassing hebt geïnstalleerd, verschijnt er een pictogram (![](assets/start-icon.jpg)) wordt toegevoegd aan de extensiebalk. Selecteer dit pictogram om de extensie te openen.

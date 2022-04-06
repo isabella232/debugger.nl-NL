@@ -1,27 +1,21 @@
 ---
-description: Het scherm van het Netwerk van Foutopsporing van het Experience Platform
+title: Het Lusje van het Netwerk
+description: Leer hoe u het tabblad Netwerk in Adobe Experience Platform Debugger gebruikt.
 keywords: foutopsporing;ervaring met Platform debugger-extensie;chroom;extensie;netwerk;informatie
-seo-description: Het scherm van het Netwerk van Foutopsporing van het Experience Platform
-seo-title: Netwerkinformatie
-title: Netwerkinformatie
+seo-description: Experience Platform Debugger Network screen
+seo-title: Network Tab
 uuid: 839686c9-6e4f-4661-acf6-150ea24dc47f
 exl-id: ed0579ef-ec26-43df-9453-a395c105038a
-source-git-commit: 8672a623442e5a0daa10597a4a93631131221fec
+source-git-commit: a442fa56589003dad4ca9896ef601349fb93d280
 workflow-type: tm+mt
-source-wordcount: '236'
-ht-degree: 2%
+source-wordcount: '215'
+ht-degree: 0%
 
 ---
 
-# Netwerk{#network}
+# Het tabblad Netwerk
 
->[!IMPORTANT]
->
->Adobe Experience Platform Debugger bevindt zich momenteel in bèta. De documentatie en de functionaliteit kunnen worden gewijzigd.
-
-Klik op **[!UICONTROL Network]** om netwerkinformatie weer te geven.
-
-Het scherm van het Netwerk aggregeert alle de oplossingsvraag van Adobe Experience Cloud die op de pagina wordt gemaakt en toont hen in orde van links naar rechts. Standaardparameters worden automatisch geëtiketteerd met vriendelijke namen en gerangschikt om gemeenschappelijke parameters op dezelfde rol te groeperen.
+De **Netwerk** worden alle Adobe Experience Cloud-oplossingsaanroepen op de pagina samengevoegd en in volgorde van links naar rechts weergegeven. Standaardparameters worden automatisch geëtiketteerd met vriendelijke namen en gerangschikt om gemeenschappelijke parameters op dezelfde rol te groeperen.
 
 ![](assets/network.jpg)
 
@@ -35,9 +29,9 @@ Om de informatie door oplossing te veranderen, selecteer de oplossing u van de l
 
 ![](assets/network-analytics.jpg)
 
-Als u alle oplossingen wilt weergeven, klikt u op **[!UICONTROL Network]**
+Als u wilt terugkeren naar het weergeven van alle oplossingen, selecteert u **[!UICONTROL Network]**
 
-Klik op een item in de netwerkweergave om een uitgebreide weergave te zien. Vanuit het uitgevouwen weergavevenster kunt u de weergegeven informatie naar het klembord kopiëren.
+Selecteer op een punt in de mening van het Netwerk om een uitgebreide mening te zien. Vanuit het uitgevouwen weergavevenster kunt u de weergegeven informatie naar het klembord kopiëren.
 
 ![](assets/network-expand.jpg)
 
@@ -45,6 +39,6 @@ Klik op een item in de netwerkweergave om een uitgebreide weergave te zien. Vanu
 
 ![](assets/copy.jpg)-->
 
-Als u de lijst wilt wissen, klikt u op **[!UICONTROL Remove Events]**.
+Als u de lijst wilt wissen, selecteert u **[!UICONTROL Remove Events]**.
 
-Als u een Excel-bestand met de informatie op dit scherm wilt downloaden, klikt u op **[!UICONTROL Download]**.
+Als u een Excel-bestand met de informatie op dit scherm wilt downloaden, selecteert u **[!UICONTROL Download]**.

@@ -1,32 +1,28 @@
 ---
-description: Gebeurtenisscherm Foutopsporing Experience Platform
+description: Leer hoe u het tabblad Gebeurtenissen in Adobe Experience Platform Debugger gebruikt.
 keywords: foutopsporing;ervaring met platformfoutopsporingsextensie;chroom;extensie;gebeurtenissen;dtm;target
-seo-description: Gebeurtenisscherm Foutopsporing Experience Platform
-seo-title: Gebeurtenissen
-title: Gebeurtenissen
+seo-description: Experience Platform Debugger Events Screen
+seo-title: Events
+title: Tabblad Gebeurtenissen
 exl-id: 1f94ca36-d545-4e41-89a9-ed97c45991fb
-source-git-commit: 8672a623442e5a0daa10597a4a93631131221fec
+source-git-commit: a442fa56589003dad4ca9896ef601349fb93d280
 workflow-type: tm+mt
-source-wordcount: '179'
-ht-degree: 2%
+source-wordcount: '165'
+ht-degree: 0%
 
 ---
 
-# Gebeurtenissen{#events}
+# Het tabblad Gebeurtenissen
 
->[!IMPORTANT]
->
->Adobe Experience Platform Debugger bevindt zich momenteel in bèta. De documentatie en de functionaliteit kunnen worden gewijzigd.
-
-Het scherm Gebeurtenissen geeft een grafische weergave van de gebeurtenissen die plaatsvinden en die op een tijdlijn worden weergegeven.
+De **Gebeurtenissen** biedt een grafische weergave van de gebeurtenissen die plaatsvinden en worden weergegeven op een tijdlijn.
 
 ![](assets/events.jpg)
 
-Voor elke gebeurtenis verschijnt er een pictogram voor de toepasselijke oplossing op de tijdlijn. De pictogrammen tonen ook veranderingen in de gegevenslaag (als toegelaten). Houd de muisaanwijzer boven een pictogram voor een overzicht van de gebeurtenis. Klik op de gebeurtenis voor meer informatie. U kunt meerdere gebeurtenissen weergeven door Shift of Control ingedrukt te houden en te klikken.
+Voor elke gebeurtenis verschijnt er een pictogram voor de toepasselijke oplossing op de tijdlijn. De pictogrammen tonen ook veranderingen in de gegevenslaag (als toegelaten). Houd de muisaanwijzer boven een pictogram voor een overzicht van de gebeurtenis. Selecteer de gebeurtenis voor meer informatie. U kunt meerdere gebeurtenissen weergeven door Shift of Control ingedrukt te houden en te selecteren.
 
 ![](assets/events-details.jpg)
 
-Klik op een detail voor meer informatie.
+Selecteer op een detail voor meer informatie.
 
 ![](assets/events-details-more.jpg)
 
@@ -34,15 +30,15 @@ Klik op een detail voor meer informatie.
 
 Wijzigingen in gegevenslagen bijhouden in de tijdlijn inschakelen:
 
-1. Klik op het tandwielpictogram rechtsboven.
+1. Selecteer het tandwielpictogram rechtsboven.
 1. Voer de naam van de gegevenslaag in.
 
    ![](assets/event-datalayer.jpg)
 
-1. Klik op **[!UICONTROL Save]**.
+1. Selecteer **[!UICONTROL Save]**.
 
-De gegevens van de de veranderingsdetails van de gegevenslaag tonen om het even wat die is geschrapt of toegevoegd. U kunt **{}** klikken om dieper in de gegevenslaag te kijken.
+De gegevens van de de veranderingsdetails van de gegevenslaag tonen om het even wat die is geschrapt of toegevoegd. U kunt **{}** om dieper in de gegevenslaag te kijken.
 
 ## Gebeurtenisgegevens downloaden
 
-Klik **[!UICONTROL Download]** om een dossier van Excel te downloaden dat informatie over uw paginavraag toont.
+Selecteren **[!UICONTROL Download]** om een dossier van Excel te downloaden dat informatie over uw paginavraag toont.

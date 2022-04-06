@@ -1,20 +1,16 @@
 ---
-title: Auditor
+title: Tabblad Auditor
 description: Leer hoe u het tabblad Audit in Adobe Experience Platform Debugger kunt gebruiken om uw Adobe Experience Cloud-implementaties te testen.
 keywords: foutopsporing;ervaring met platformfoutopsporingsextensie;chroom;extensie;auditor;dtm;target
 exl-id: 409094f8-a7d9-45f7-ba12-b5e6250abc0f
-source-git-commit: 84aa9d71d3f3bc84a9bcbf18a9978428964f1f74
+source-git-commit: a442fa56589003dad4ca9896ef601349fb93d280
 workflow-type: tm+mt
-source-wordcount: '373'
+source-wordcount: '358'
 ht-degree: 9%
 
 ---
 
-# Auditor
-
->[!IMPORTANT]
->
->Adobe Experience Platform Debugger bevindt zich momenteel in bèta. De documentatie en de functionaliteit kunnen worden gewijzigd.
+# Tabblad Auditor
 
 In Adobe Experience Platform Debugger kunt u de opdracht **[!UICONTROL Auditor]** om een reeks controletests op uw pagina uit te voeren.
 
