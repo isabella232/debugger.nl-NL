@@ -1,10 +1,10 @@
 ---
-source-git-commit: 8ee7a5d7878652a4b8d27a0255baf8f67f36f20d
+source-git-commit: 7c154c35fa8b1a704d291f6307704d6ea122f21c
 workflow-type: tm+mt
-translation-type: tm+mt
-source-wordcount: '6'
+source-wordcount: '9'
 ht-degree: 0%
 
 ---
-# Technische documentatie voor foutopsporing van Experience Platform
+# debugger.en is gearchiveerd
 
+https://experienceleague.adobe.com/docs/experience-platform/debugger/home.html
