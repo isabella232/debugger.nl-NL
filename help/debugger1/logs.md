@@ -15,7 +15,7 @@ ht-degree: 2%
 
 # Logboeken{#logs}
 
-The Logs screen provides information specific to DTM implementations. The Console Debugging tool for DTM does not need to be enabled to show this information. U kunt filteren op oplossingen die zijn geïmplementeerd via de bijbehorende DTM-gereedschappen. You can choose which of the following issue severity levels show on the screen:
+Het Logs-scherm biedt specifieke informatie over DTM-implementaties. Het gereedschap Foutopsporing console voor DTM hoeft niet te zijn ingeschakeld om deze informatie weer te geven. U kunt filteren op oplossingen die zijn geïmplementeerd via de bijbehorende DTM-gereedschappen. U kunt kiezen welke van de volgende prioriteitsniveaus op het scherm worden weergegeven:
 
 * Logboek
 * Info
@@ -24,4 +24,4 @@ The Logs screen provides information specific to DTM implementations. The Consol
 
 ![](assets/logs.jpg)
 
-Some DTM log items include a Show Code option in their message. Click **[!UICONTROL Show Code]** to view the conditional code that determines whether a rule should fire.
+Sommige DTM-logitems bevatten een optie Code tonen in het bericht. Klikken **[!UICONTROL Show Code]** om de voorwaardelijke code weer te geven die bepaalt of een regel moet worden geactiveerd.

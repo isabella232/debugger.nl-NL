@@ -119,7 +119,7 @@ Klikken **[!UICONTROL Clear All Requests]** om de momenteel weergegeven aanvrage
 
 ## Experience Cloud ID-service {#section-a96c32f8e63a4991abb296f6e8ea01cf}
 
-Het tabblad Experience Cloud-id-service weergeven [Experience Cloud ID-service](https://docs.adobe.com/content/help/en/id-service/using/home.html) verzoeken.
+Het tabblad Experience Cloud-id-service weergeven [Experience Cloud ID-service](https://docs.adobe.com/content/help/nl-NL/id-service/using/home.html) verzoeken.
 
 Klikken **[!UICONTROL Requests]**, breid dan het milieu uit om informatie over de Dienst van identiteitskaart van Experience Cloud te bekijken.
 

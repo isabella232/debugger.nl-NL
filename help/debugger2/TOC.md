@@ -4,19 +4,19 @@ product: experience platform
 sub-product: experience platform debugger
 solution: Data Collection, Debugger
 audience: end-user
-user-guide-title: Help bij Foutopsporing Experience Platform
-user-guide-description: Onderzoek uw Web-pagina's voor problemen met uw Experience Platform implementaties.
+user-guide-title: Hulp bij Experience Platform Debugger
+user-guide-description: Onderzoek uw webpagina's op problemen met uw Experience Platform-implementaties.
 breadcrumb-title: Handleiding Foutopsporing Platform
 index: true
 source-git-commit: b4f705ad457ff5841f1610a01e2e8e40cd54f894
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '55'
+ht-degree: 45%
 
 ---
 
 
-# Help bij Foutopsporing Experience Platform {#using-v2}
+# Hulp bij Experience Platform Debugger {#using-v2}
 
 * [Adobe Experience Platform Debugger-extensie](experience-cloud-debugger.md)
 * [Aanvullende informatie](release-notes.md)
